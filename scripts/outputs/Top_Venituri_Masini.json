@@ -1,0 +1,52 @@
+[
+  {
+    "marca": "Nissan",
+    "model": "Micra",
+    "venit_total": "111042.51 RON"
+  },
+  {
+    "marca": "Dodge",
+    "model": "Durango",
+    "venit_total": "98887.16 RON"
+  },
+  {
+    "marca": "Kia",
+    "model": "Sorento",
+    "venit_total": "94531.76 RON"
+  },
+  {
+    "marca": "Peugeot",
+    "model": "508",
+    "venit_total": "92880.46 RON"
+  },
+  {
+    "marca": "Ferrari",
+    "model": "F8 Tributo",
+    "venit_total": "89960.45 RON"
+  },
+  {
+    "marca": "Aston Martin",
+    "model": "Rapide",
+    "venit_total": "87975.08 RON"
+  },
+  {
+    "marca": "Hyundai",
+    "model": "Kona",
+    "venit_total": "87298.61 RON"
+  },
+  {
+    "marca": "Nissan",
+    "model": "Altima",
+    "venit_total": "84710.96 RON"
+  },
+  {
+    "marca": "GMC",
+    "model": "Acadia",
+    "venit_total": "82259.13 RON"
+  },
+  {
+    "marca": "GMC",
+    "model": "Savana",
+    "venit_total": "81596.09 RON"
+  }
+]

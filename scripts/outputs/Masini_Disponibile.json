@@ -1,0 +1,752 @@
+[
+  {
+    "nume_marca": "Subaru",
+    "nume_model": "XV",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Kia",
+    "nume_model": "Sorento",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Ferrari",
+    "nume_model": "Roma",
+    "numar_masini_disponibile": 12
+  },
+  {
+    "nume_marca": "Peugeot",
+    "nume_model": "308",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Mazda",
+    "nume_model": "Mazda3",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Maserati",
+    "nume_model": "Ghibli",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Peugeot",
+    "nume_model": "3008",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Maserati",
+    "nume_model": "Quattroporte",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Kia",
+    "nume_model": "Rio",
+    "numar_masini_disponibile": 10
+  },
+  {
+    "nume_marca": "Volkswagen",
+    "nume_model": "Tiguan",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Lamborghini",
+    "nume_model": "Gallardo",
+    "numar_masini_disponibile": 10
+  },
+  {
+    "nume_marca": "Audi",
+    "nume_model": "A4",
+    "numar_masini_disponibile": 8
+  },
+  {
+    "nume_marca": "Fiat",
+    "nume_model": "Panda",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Mazda",
+    "nume_model": "CX-9",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Toyota",
+    "nume_model": "Highlander",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Aston Martin",
+    "nume_model": "Vantage",
+    "numar_masini_disponibile": 11
+  },
+  {
+    "nume_marca": "BMW",
+    "nume_model": "X3",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Skoda",
+    "nume_model": "Karoq",
+    "numar_masini_disponibile": 9
+  },
+  {
+    "nume_marca": "Ford",
+    "nume_model": "Mondeo",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Aston Martin",
+    "nume_model": "DBX",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Honda",
+    "nume_model": "HR-V",
+    "numar_masini_disponibile": 8
+  },
+  {
+    "nume_marca": "Volvo",
+    "nume_model": "S60",
+    "numar_masini_disponibile": 11
+  },
+  {
+    "nume_marca": "Renault",
+    "nume_model": "Austral",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Chrysler",
+    "nume_model": "Concorde",
+    "numar_masini_disponibile": 3
+  },
+  {
+    "nume_marca": "Buick",
+    "nume_model": "LaCrosse",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "GMC",
+    "nume_model": "Savana",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Ferrari",
+    "nume_model": "488",
+    "numar_masini_disponibile": 8
+  },
+  {
+    "nume_marca": "Tesla",
+    "nume_model": "Model S",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Audi",
+    "nume_model": "Q5",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Jeep",
+    "nume_model": "Compass",
+    "numar_masini_disponibile": 9
+  },
+  {
+    "nume_marca": "Seat",
+    "nume_model": "Ibiza",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Audi",
+    "nume_model": "A3",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Alfa Romeo",
+    "nume_model": "159",
+    "numar_masini_disponibile": 9
+  },
+  {
+    "nume_marca": "Ford",
+    "nume_model": "Focus",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Jeep",
+    "nume_model": "Wrangler",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Volvo",
+    "nume_model": "V90",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Jeep",
+    "nume_model": "Renegade",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Skoda",
+    "nume_model": "Kodiaq",
+    "numar_masini_disponibile": 8
+  },
+  {
+    "nume_marca": "Aston Martin",
+    "nume_model": "Rapide",
+    "numar_masini_disponibile": 2
+  },
+  {
+    "nume_marca": "Seat",
+    "nume_model": "Ateca",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Hyundai",
+    "nume_model": "Elantra",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Seat",
+    "nume_model": "Leon",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Seat",
+    "nume_model": "Tarraco",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Peugeot",
+    "nume_model": "508",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Dodge",
+    "nume_model": "Journey",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Volvo",
+    "nume_model": "XC90",
+    "numar_masini_disponibile": 8
+  },
+  {
+    "nume_marca": "Volkswagen",
+    "nume_model": "Passat",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Buick",
+    "nume_model": "Enclave",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Chevrolet",
+    "nume_model": "Equinox",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Subaru",
+    "nume_model": "Forester",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "GMC",
+    "nume_model": "Sierra",
+    "numar_masini_disponibile": 3
+  },
+  {
+    "nume_marca": "Fiat",
+    "nume_model": "Bravo",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Seat",
+    "nume_model": "Arona",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Toyota",
+    "nume_model": "Corolla",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Subaru",
+    "nume_model": "Legacy",
+    "numar_masini_disponibile": 10
+  },
+  {
+    "nume_marca": "Chrysler",
+    "nume_model": "300",
+    "numar_masini_disponibile": 10
+  },
+  {
+    "nume_marca": "Tesla",
+    "nume_model": "Cybertruck",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Volkswagen",
+    "nume_model": "Touareg",
+    "numar_masini_disponibile": 8
+  },
+  {
+    "nume_marca": "Dodge",
+    "nume_model": "Durango",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Nissan",
+    "nume_model": "X-Trail",
+    "numar_masini_disponibile": 2
+  },
+  {
+    "nume_marca": "Volkswagen",
+    "nume_model": "Golf",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Aston Martin",
+    "nume_model": "DBS",
+    "numar_masini_disponibile": 8
+  },
+  {
+    "nume_marca": "Mazda",
+    "nume_model": "CX-5",
+    "numar_masini_disponibile": 9
+  },
+  {
+    "nume_marca": "Fiat",
+    "nume_model": "Punto",
+    "numar_masini_disponibile": 9
+  },
+  {
+    "nume_marca": "Audi",
+    "nume_model": "Q7",
+    "numar_masini_disponibile": 10
+  },
+  {
+    "nume_marca": "Mazda",
+    "nume_model": "CX-30",
+    "numar_masini_disponibile": 8
+  },
+  {
+    "nume_marca": "Maserati",
+    "nume_model": "Levante",
+    "numar_masini_disponibile": 9
+  },
+  {
+    "nume_marca": "Mercedes-Benz",
+    "nume_model": "GLE",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Chevrolet",
+    "nume_model": "Malibu",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Mercedes-Benz",
+    "nume_model": "S-Class",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Toyota",
+    "nume_model": "Camry",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Lamborghini",
+    "nume_model": "Revuelto",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Alfa Romeo",
+    "nume_model": "Stelvio",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Buick",
+    "nume_model": "Regal",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Subaru",
+    "nume_model": "Impreza",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Subaru",
+    "nume_model": "Outback",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Renault",
+    "nume_model": "Talisman",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Hyundai",
+    "nume_model": "Sonata",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Dodge",
+    "nume_model": "Challenger",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Chevrolet",
+    "nume_model": "Impala",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Ferrari",
+    "nume_model": "812 Superfast",
+    "numar_masini_disponibile": 9
+  },
+  {
+    "nume_marca": "GMC",
+    "nume_model": "Acadia",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Chevrolet",
+    "nume_model": "Tahoe",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Maserati",
+    "nume_model": "GranTurismo",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Tesla",
+    "nume_model": "Model Y",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Mercedes-Benz",
+    "nume_model": "GLC",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Fiat",
+    "nume_model": "Tipo",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Peugeot",
+    "nume_model": "2008",
+    "numar_masini_disponibile": 2
+  },
+  {
+    "nume_marca": "BMW",
+    "nume_model": "Seria 5",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Tesla",
+    "nume_model": "Model 3",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "GMC",
+    "nume_model": "Canyon",
+    "numar_masini_disponibile": 3
+  },
+  {
+    "nume_marca": "Peugeot",
+    "nume_model": "208",
+    "numar_masini_disponibile": 8
+  },
+  {
+    "nume_marca": "Ford",
+    "nume_model": "Fiesta",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Toyota",
+    "nume_model": "RAV4",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Nissan",
+    "nume_model": "Juke",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Chrysler",
+    "nume_model": "Voyager",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Alfa Romeo",
+    "nume_model": "MiTo",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Buick",
+    "nume_model": "Encore",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Lamborghini",
+    "nume_model": "Urus",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Buick",
+    "nume_model": "Cascada",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Honda",
+    "nume_model": "CR-V",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Chrysler",
+    "nume_model": "Pacifica",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Volvo",
+    "nume_model": "XC60",
+    "numar_masini_disponibile": 11
+  },
+  {
+    "nume_marca": "Kia",
+    "nume_model": "Ceed",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Mercedes-Benz",
+    "nume_model": "E-Class",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Audi",
+    "nume_model": "A6",
+    "numar_masini_disponibile": 8
+  },
+  {
+    "nume_marca": "Jeep",
+    "nume_model": "Cherokee",
+    "numar_masini_disponibile": 3
+  },
+  {
+    "nume_marca": "Jeep",
+    "nume_model": "Grand Cherokee",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Mercedes-Benz",
+    "nume_model": "C-Class",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Volkswagen",
+    "nume_model": "Polo",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Dodge",
+    "nume_model": "Charger",
+    "numar_masini_disponibile": 2
+  },
+  {
+    "nume_marca": "Alfa Romeo",
+    "nume_model": "Brera",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Nissan",
+    "nume_model": "Micra",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Nissan",
+    "nume_model": "Qashqai",
+    "numar_masini_disponibile": 8
+  },
+  {
+    "nume_marca": "Volvo",
+    "nume_model": "V60",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Ford",
+    "nume_model": "Mustang",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Ferrari",
+    "nume_model": "F8 Tributo",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Honda",
+    "nume_model": "Civic",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Hyundai",
+    "nume_model": "Kona",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Fiat",
+    "nume_model": "500",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "BMW",
+    "nume_model": "X5",
+    "numar_masini_disponibile": 3
+  },
+  {
+    "nume_marca": "Lamborghini",
+    "nume_model": "Huracan",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Mazda",
+    "nume_model": "Mazda6",
+    "numar_masini_disponibile": 8
+  },
+  {
+    "nume_marca": "Honda",
+    "nume_model": "Accord",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Alfa Romeo",
+    "nume_model": "Giulia",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Hyundai",
+    "nume_model": "Tucson",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Ford",
+    "nume_model": "Explorer",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "Skoda",
+    "nume_model": "Scala",
+    "numar_masini_disponibile": 3
+  },
+  {
+    "nume_marca": "Ferrari",
+    "nume_model": "Portofino",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Renault",
+    "nume_model": "Captur",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Aston Martin",
+    "nume_model": "DB11",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Skoda",
+    "nume_model": "Octavia",
+    "numar_masini_disponibile": 7
+  },
+  {
+    "nume_marca": "BMW",
+    "nume_model": "i4",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Tesla",
+    "nume_model": "Model X",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Nissan",
+    "nume_model": "Altima",
+    "numar_masini_disponibile": 1
+  },
+  {
+    "nume_marca": "Kia",
+    "nume_model": "Picanto",
+    "numar_masini_disponibile": 5
+  },
+  {
+    "nume_marca": "Skoda",
+    "nume_model": "Superb",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Chevrolet",
+    "nume_model": "Camaro",
+    "numar_masini_disponibile": 8
+  },
+  {
+    "nume_marca": "BMW",
+    "nume_model": "Seria 3",
+    "numar_masini_disponibile": 8
+  },
+  {
+    "nume_marca": "Renault",
+    "nume_model": "Clio",
+    "numar_masini_disponibile": 1
+  },
+  {
+    "nume_marca": "Honda",
+    "nume_model": "Jazz",
+    "numar_masini_disponibile": 3
+  },
+  {
+    "nume_marca": "Chrysler",
+    "nume_model": "200",
+    "numar_masini_disponibile": 2
+  },
+  {
+    "nume_marca": "Kia",
+    "nume_model": "Sportage",
+    "numar_masini_disponibile": 3
+  },
+  {
+    "nume_marca": "Renault",
+    "nume_model": "Megane",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Maserati",
+    "nume_model": "MC20",
+    "numar_masini_disponibile": 2
+  },
+  {
+    "nume_marca": "Lamborghini",
+    "nume_model": "Aventador",
+    "numar_masini_disponibile": 3
+  },
+  {
+    "nume_marca": "Hyundai",
+    "nume_model": "Santa Fe",
+    "numar_masini_disponibile": 6
+  },
+  {
+    "nume_marca": "Toyota",
+    "nume_model": "Yaris",
+    "numar_masini_disponibile": 4
+  },
+  {
+    "nume_marca": "Dodge",
+    "nume_model": "RAM",
+    "numar_masini_disponibile": 2
+  },
+  {
+    "nume_marca": "GMC",
+    "nume_model": "Yukon",
+    "numar_masini_disponibile": 1
+  }
+]

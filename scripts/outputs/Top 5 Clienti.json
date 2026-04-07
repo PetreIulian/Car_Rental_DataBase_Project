@@ -1,86 +1,898 @@
 [
   {
-    "Nume Client": "Nemeș",
-    "Prenume Client": "Daciana",
-    "Email": "daciana.nemeș381@gmail.com",
-    "Numar Telefon": "0269 318 848",
+    "Nume Client": "Diaconu",
+    "Prenume Client": "Larisa",
+    "Email": "larisa.diaconu9344@gmail.com",
+    "Numar Telefon": "0267 953 932",
+    "Numar_Comenzi": 5
+  },
+  {
+    "Nume Client": "Albu",
+    "Prenume Client": "Emilian",
+    "Email": "emilian.albu3729@gmail.com",
+    "Numar Telefon": "0786 032 535",
+    "Numar_Comenzi": 5
+  },
+  {
+    "Nume Client": "Suciu",
+    "Prenume Client": "Livia",
+    "Email": "livia.suciu9174@gmail.com",
+    "Numar Telefon": "0243 424 446",
+    "Numar_Comenzi": 5
+  },
+  {
+    "Nume Client": "Suciu",
+    "Prenume Client": "Vlaicu",
+    "Email": "vlaicu.suciu3448@gmail.com",
+    "Numar Telefon": "021 466 6380",
+    "Numar_Comenzi": 5
+  },
+  {
+    "Nume Client": "Gheorghiu",
+    "Prenume Client": "Zenobia",
+    "Email": "zenobia.gheorghiu6881@gmail.com",
+    "Numar Telefon": "0731 214 129",
+    "Numar_Comenzi": 5
+  },
+  {
+    "Nume Client": "Mocanu",
+    "Prenume Client": "Mihai",
+    "Email": "mihai.mocanu3582@gmail.com",
+    "Numar Telefon": "0741 616 297",
     "Numar_Comenzi": 4
   },
   {
-    "Nume Client": "Niță",
-    "Prenume Client": "Varvara",
-    "Email": "varvara.niță928@gmail.com",
-    "Numar Telefon": "0259 615 422",
-    "Numar_Comenzi": 3
+    "Nume Client": "Diaconu",
+    "Prenume Client": "Silvian",
+    "Email": "silvian.diaconu3157@gmail.com",
+    "Numar Telefon": "0772 040 091",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Dinu",
+    "Prenume Client": "Petrișor",
+    "Email": "petrișor.dinu7939@gmail.com",
+    "Numar Telefon": "0232 236 819",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Eftimie",
+    "Prenume Client": "Anica",
+    "Email": "anica.eftimie792@gmail.com",
+    "Numar Telefon": "0739 526 643",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Albu",
+    "Prenume Client": "Arian",
+    "Email": "arian.albu9438@gmail.com",
+    "Numar Telefon": "0786 332 345",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Tabacu",
+    "Prenume Client": "Mirona",
+    "Email": "mirona.tabacu4305@gmail.com",
+    "Numar Telefon": "021 356 8302",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Popescu",
+    "Prenume Client": "Beniamin",
+    "Email": "beniamin.popescu5377@gmail.com",
+    "Numar Telefon": "0735 143 311",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Voinea",
+    "Prenume Client": "Rafael",
+    "Email": "rafael.voinea4417@gmail.com",
+    "Numar Telefon": "0255 784 110",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Marin",
+    "Prenume Client": "Adelin",
+    "Email": "adelin.marin1239@gmail.com",
+    "Numar Telefon": "0764 903 034",
+    "Numar_Comenzi": 4
   },
   {
     "Nume Client": "Diaconescu",
-    "Prenume Client": "Salomea",
-    "Email": "salomea.diaconescu440@gmail.com",
-    "Numar Telefon": "0764 568 159",
+    "Prenume Client": "Bogdan",
+    "Email": "bogdan.diaconescu3630@gmail.com",
+    "Numar Telefon": "0755 163 159",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Dochioiu",
+    "Prenume Client": "Ariadna",
+    "Email": "ariadna.dochioiu4751@gmail.com",
+    "Numar Telefon": "0753 042 787",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Voinea",
+    "Prenume Client": "George",
+    "Email": "george.voinea3634@gmail.com",
+    "Numar Telefon": "0780 182 836",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Nemeș",
+    "Prenume Client": "Demetra",
+    "Email": "demetra.nemeș6696@gmail.com",
+    "Numar Telefon": "0744 971 856",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Pușcașu",
+    "Prenume Client": "Aristița",
+    "Email": "aristița.pușcașu5926@gmail.com",
+    "Numar Telefon": "0241 271 573",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Stănescu",
+    "Prenume Client": "Liviu",
+    "Email": "liviu.stănescu2604@gmail.com",
+    "Numar Telefon": "0767 746 735",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Dumitrescu",
+    "Prenume Client": "Petrică",
+    "Email": "petrică.dumitrescu4291@gmail.com",
+    "Numar Telefon": "0736 969 518",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Mazilescu",
+    "Prenume Client": "Lascăr",
+    "Email": "lascăr.mazilescu3133@gmail.com",
+    "Numar Telefon": "0256 569 039",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Tomescu",
+    "Prenume Client": "Leopoldina",
+    "Email": "leopoldina.tomescu1126@gmail.com",
+    "Numar Telefon": "0252 188 241",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Voinea",
+    "Prenume Client": "Anghel",
+    "Email": "anghel.voinea5545@gmail.com",
+    "Numar Telefon": "0248 537 245",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Popescu",
+    "Prenume Client": "Veronica",
+    "Email": "veronica.popescu879@gmail.com",
+    "Numar Telefon": "0757 371 379",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Pop",
+    "Prenume Client": "Ozana",
+    "Email": "ozana.pop4809@gmail.com",
+    "Numar Telefon": "0747 586 026",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Dima",
+    "Prenume Client": "Aureliana",
+    "Email": "aureliana.dima5161@gmail.com",
+    "Numar Telefon": "0766 349 105",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Eftimie",
+    "Prenume Client": "Zamfira",
+    "Email": "zamfira.eftimie2780@gmail.com",
+    "Numar Telefon": "021 318 9026",
     "Numar_Comenzi": 3
   },
   {
-    "Nume Client": "Popa",
-    "Prenume Client": "Alexandru",
-    "Email": "alexandru.popa346@gmail.com",
-    "Numar Telefon": "0754 296 501",
+    "Nume Client": "Toma",
+    "Prenume Client": "Ianis",
+    "Email": "ianis.toma3102@gmail.com",
+    "Numar Telefon": "0235 999 015",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Stancu",
+    "Prenume Client": "Mugur",
+    "Email": "mugur.stancu6423@gmail.com",
+    "Numar Telefon": "0265 197 934",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Ene",
+    "Prenume Client": "Ilie",
+    "Email": "ilie.ene1607@gmail.com",
+    "Numar Telefon": "0266 398 336",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Nistor",
+    "Prenume Client": "Amelia",
+    "Email": "amelia.nistor2631@gmail.com",
+    "Numar Telefon": "0756 610 726",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Preda",
+    "Prenume Client": "Grațiana",
+    "Email": "grațiana.preda3432@gmail.com",
+    "Numar Telefon": "0736 246 662",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Gheorghiu",
+    "Prenume Client": "Codruț",
+    "Email": "codruț.gheorghiu5024@gmail.com",
+    "Numar Telefon": "0760 679 378",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Toma",
+    "Prenume Client": "Dalia",
+    "Email": "dalia.toma9887@gmail.com",
+    "Numar Telefon": "0760 359 972",
     "Numar_Comenzi": 3
   },
   {
     "Nume Client": "Tabacu",
-    "Prenume Client": "Ramona",
-    "Email": "ramona.tabacu963@gmail.com",
-    "Numar Telefon": "0748 654 654",
+    "Prenume Client": "Lorin",
+    "Email": "lorin.tabacu5206@gmail.com",
+    "Numar Telefon": "0253 294 174",
     "Numar_Comenzi": 3
   },
   {
-    "Nume Client": "Ionescu",
-    "Prenume Client": "Georgel",
-    "Email": "georgel.ionescu337@gmail.com",
-    "Numar Telefon": "0757 620 396",
-    "Numar_Comenzi": 3
-  },
-  {
-    "Nume Client": "Georgescu",
-    "Prenume Client": "Laura",
-    "Email": "laura.georgescu628@gmail.com",
-    "Numar Telefon": "0745 575 765",
-    "Numar_Comenzi": 3
-  },
-  {
-    "Nume Client": "Cristea",
-    "Prenume Client": "Vasilica",
-    "Email": "vasilica.cristea717@gmail.com",
-    "Numar Telefon": "0236 203 823",
-    "Numar_Comenzi": 3
-  },
-  {
-    "Nume Client": "Popa",
-    "Prenume Client": "Andreea",
-    "Email": "andreea.popa913@gmail.com",
-    "Numar Telefon": "0722 984 415",
-    "Numar_Comenzi": 3
-  },
-  {
-    "Nume Client": "Stan",
-    "Prenume Client": "Alexandra",
-    "Email": "alexandra.stan509@gmail.com",
-    "Numar Telefon": "0758 933 352",
-    "Numar_Comenzi": 3
-  },
-  {
-    "Nume Client": "Tabacu",
-    "Prenume Client": "Florina",
-    "Email": "florina.tabacu704@gmail.com",
-    "Numar Telefon": "0720 838 000",
+    "Nume Client": "Dumitrescu",
+    "Prenume Client": "Silviana",
+    "Email": "silviana.dumitrescu2360@gmail.com",
+    "Numar Telefon": "0720 324 709",
     "Numar_Comenzi": 3
   },
   {
     "Nume Client": "Florea",
-    "Prenume Client": "Emilia",
-    "Email": "emilia.florea479@gmail.com",
-    "Numar Telefon": "0768 637 689",
+    "Prenume Client": "Niculiță",
+    "Email": "niculiță.florea8877@gmail.com",
+    "Numar Telefon": "0251 493 286",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Dumitrescu",
+    "Prenume Client": "Mina",
+    "Email": "mina.dumitrescu8362@gmail.com",
+    "Numar Telefon": "0723 882 168",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Ene",
+    "Prenume Client": "Todor",
+    "Email": "todor.ene9288@gmail.com",
+    "Numar Telefon": "0239 231 305",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Dima",
+    "Prenume Client": "Dumitru",
+    "Email": "dumitru.dima6951@gmail.com",
+    "Numar Telefon": "0753 892 559",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Florea",
+    "Prenume Client": "Magdalena",
+    "Email": "magdalena.florea924@gmail.com",
+    "Numar Telefon": "0247 594 680",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Stancu",
+    "Prenume Client": "Cezara",
+    "Email": "cezara.stancu5953@gmail.com",
+    "Numar Telefon": "0765 858 998",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Diaconu",
+    "Prenume Client": "Saveta",
+    "Email": "saveta.diaconu4157@gmail.com",
+    "Numar Telefon": "0766 179 431",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Stănescu",
+    "Prenume Client": "Nicolae",
+    "Email": "nicolae.stănescu9459@gmail.com",
+    "Numar Telefon": "0756 958 976",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Nistor",
+    "Prenume Client": "Artemisa",
+    "Email": "artemisa.nistor6603@gmail.com",
+    "Numar Telefon": "0757 360 853",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Aanei",
+    "Prenume Client": "Romanița",
+    "Email": "romanița.aanei9434@gmail.com",
+    "Numar Telefon": "0747 690 315",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Dumitrescu",
+    "Prenume Client": "Ada",
+    "Email": "ada.dumitrescu7440@gmail.com",
+    "Numar Telefon": "0250 059 426",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Stan",
+    "Prenume Client": "Aleodor",
+    "Email": "aleodor.stan8589@gmail.com",
+    "Numar Telefon": "0733 049 597",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Toma",
+    "Prenume Client": "Vicențiu",
+    "Email": "vicențiu.toma2928@gmail.com",
+    "Numar Telefon": "0238 899 270",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Stănescu",
+    "Prenume Client": "Valeriu",
+    "Email": "valeriu.stănescu5521@gmail.com",
+    "Numar Telefon": "0243 246 950",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Ardelean",
+    "Prenume Client": "Fiona",
+    "Email": "fiona.ardelean5006@gmail.com",
+    "Numar Telefon": "0243 971 128",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Voinea",
+    "Prenume Client": "Ianis",
+    "Email": "ianis.voinea3543@gmail.com",
+    "Numar Telefon": "0743 526 753",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Barbu",
+    "Prenume Client": "Lavinia",
+    "Email": "lavinia.barbu789@gmail.com",
+    "Numar Telefon": "0751 604 138",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Ioniță",
+    "Prenume Client": "Lucian",
+    "Email": "lucian.ioniță3436@gmail.com",
+    "Numar Telefon": "0251 786 278",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Ababei",
+    "Prenume Client": "Savina",
+    "Email": "savina.ababei301@gmail.com",
+    "Numar Telefon": "0758 512 544",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Aanei",
+    "Prenume Client": "Roberta",
+    "Email": "roberta.aanei922@gmail.com",
+    "Numar Telefon": "0728 719 536",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Stan",
+    "Prenume Client": "Pătru",
+    "Email": "pătru.stan4514@gmail.com",
+    "Numar Telefon": "0263 788 943",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Suciu",
+    "Prenume Client": "Cornel",
+    "Email": "cornel.suciu4030@gmail.com",
+    "Numar Telefon": "0267 680 538",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Popescu",
+    "Prenume Client": "Petre",
+    "Email": "petre.popescu8042@gmail.com",
+    "Numar Telefon": "0252 174 983",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Tabacu",
+    "Prenume Client": "Ortansa",
+    "Email": "ortansa.tabacu2153@gmail.com",
+    "Numar Telefon": "0731 235 017",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Marin",
+    "Prenume Client": "Ruxanda",
+    "Email": "ruxanda.marin5130@gmail.com",
+    "Numar Telefon": "0239 907 123",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Eftimie",
+    "Prenume Client": "Didina",
+    "Email": "didina.eftimie7866@gmail.com",
+    "Numar Telefon": "0762 176 301",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Dochioiu",
+    "Prenume Client": "Marcel",
+    "Email": "marcel.dochioiu6476@gmail.com",
+    "Numar Telefon": "0742 363 135",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Ardelean",
+    "Prenume Client": "Dinu",
+    "Email": "dinu.ardelean2283@gmail.com",
+    "Numar Telefon": "0751 533 784",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Ene",
+    "Prenume Client": "Eliza",
+    "Email": "eliza.ene5260@gmail.com",
+    "Numar Telefon": "0768 872 713",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Ababei",
+    "Prenume Client": "Ozana",
+    "Email": "ozana.ababei7714@gmail.com",
+    "Numar Telefon": "0265 288 726",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Mocanu",
+    "Prenume Client": "Nora",
+    "Email": "nora.mocanu1153@gmail.com",
+    "Numar Telefon": "0251 341 309",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Pop",
+    "Prenume Client": "Radu",
+    "Email": "radu.pop1665@gmail.com",
+    "Numar Telefon": "0724 301 506",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Toma",
+    "Prenume Client": "Laurențiu",
+    "Email": "laurențiu.toma286@gmail.com",
+    "Numar Telefon": "0739 717 064",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Dobre",
+    "Prenume Client": "Leopoldina",
+    "Email": "leopoldina.dobre4948@gmail.com",
+    "Numar Telefon": "0765 075 508",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Mazilescu",
+    "Prenume Client": "Pompiliu",
+    "Email": "pompiliu.mazilescu8389@gmail.com",
+    "Numar Telefon": "0241 533 420",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Niță",
+    "Prenume Client": "Zeno",
+    "Email": "zeno.niță8196@gmail.com",
+    "Numar Telefon": "0243 512 502",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Ioniță",
+    "Prenume Client": "Jenel",
+    "Email": "jenel.ioniță1766@gmail.com",
+    "Numar Telefon": "0267 056 977",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Dochioiu",
+    "Prenume Client": "Corneliu",
+    "Email": "corneliu.dochioiu7079@gmail.com",
+    "Numar Telefon": "0772 821 191",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Popa",
+    "Prenume Client": "Aneta",
+    "Email": "aneta.popa4616@gmail.com",
+    "Numar Telefon": "0750 313 256",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Cristea",
+    "Prenume Client": "Ionuț",
+    "Email": "ionuț.cristea8735@gmail.com",
+    "Numar Telefon": "0253 798 748",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Pop",
+    "Prenume Client": "David",
+    "Email": "david.pop1268@gmail.com",
+    "Numar Telefon": "0247 747 951",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Diaconescu",
+    "Prenume Client": "Livia",
+    "Email": "livia.diaconescu1569@gmail.com",
+    "Numar Telefon": "0255 521 092",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Eftimie",
+    "Prenume Client": "Lorin",
+    "Email": "lorin.eftimie2776@gmail.com",
+    "Numar Telefon": "0741 250 980",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Nistor",
+    "Prenume Client": "Heracleea",
+    "Email": "heracleea.nistor743@gmail.com",
+    "Numar Telefon": "0746 743 892",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Stan",
+    "Prenume Client": "Ianis",
+    "Email": "ianis.stan575@gmail.com",
+    "Numar Telefon": "0756 229 225",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Ene",
+    "Prenume Client": "Denis",
+    "Email": "denis.ene5295@gmail.com",
+    "Numar Telefon": "0720 926 994",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Oprea",
+    "Prenume Client": "Clementina",
+    "Email": "clementina.oprea1430@gmail.com",
+    "Numar Telefon": "0252 769 311",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Nistor",
+    "Prenume Client": "Sofia",
+    "Email": "sofia.nistor1774@gmail.com",
+    "Numar Telefon": "0261 441 289",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Dumitrescu",
+    "Prenume Client": "Carol",
+    "Email": "carol.dumitrescu1059@gmail.com",
+    "Numar Telefon": "0763 341 940",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Nistor",
+    "Prenume Client": "Daniel",
+    "Email": "daniel.nistor6601@gmail.com",
+    "Numar Telefon": "0740 298 750",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Pușcașu",
+    "Prenume Client": "Lili",
+    "Email": "lili.pușcașu636@gmail.com",
+    "Numar Telefon": "0747 856 924",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Eftimie",
+    "Prenume Client": "Beatrice",
+    "Email": "beatrice.eftimie9679@gmail.com",
+    "Numar Telefon": "0254 853 459",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Voinea",
+    "Prenume Client": "Ioanina",
+    "Email": "ioanina.voinea1626@gmail.com",
+    "Numar Telefon": "0742 690 584",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Diaconescu",
+    "Prenume Client": "Gherghina",
+    "Email": "gherghina.diaconescu7741@gmail.com",
+    "Numar Telefon": "0247 581 382",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Preda",
+    "Prenume Client": "Sorina",
+    "Email": "sorina.preda1224@gmail.com",
+    "Numar Telefon": "0738 464 201",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Mocanu",
+    "Prenume Client": "Aurica",
+    "Email": "aurica.mocanu6265@gmail.com",
+    "Numar Telefon": "0730 875 097",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Marin",
+    "Prenume Client": "Felicia",
+    "Email": "felicia.marin8791@gmail.com",
+    "Numar Telefon": "0732 327 217",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Florea",
+    "Prenume Client": "Gică",
+    "Email": "gică.florea5581@gmail.com",
+    "Numar Telefon": "0265 003 278",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Ardelean",
+    "Prenume Client": "Ion",
+    "Email": "ion.ardelean960@gmail.com",
+    "Numar Telefon": "0728 918 271",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Popescu",
+    "Prenume Client": "Gina",
+    "Email": "gina.popescu4505@gmail.com",
+    "Numar Telefon": "0728 433 220",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Tudor",
+    "Prenume Client": "Casandra",
+    "Email": "casandra.tudor1373@gmail.com",
+    "Numar Telefon": "0758 041 499",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Ene",
+    "Prenume Client": "Petre",
+    "Email": "petre.ene9481@gmail.com",
+    "Numar Telefon": "0768 666 619",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Mocanu",
+    "Prenume Client": "Ligia",
+    "Email": "ligia.mocanu4183@gmail.com",
+    "Numar Telefon": "0235 300 308",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Mocanu",
+    "Prenume Client": "Diana",
+    "Email": "diana.mocanu931@gmail.com",
+    "Numar Telefon": "0757 380 200",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Dinu",
+    "Prenume Client": "Zoe",
+    "Email": "zoe.dinu6804@gmail.com",
+    "Numar Telefon": "0256 151 342",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Pușcașu",
+    "Prenume Client": "Axenia",
+    "Email": "axenia.pușcașu397@gmail.com",
+    "Numar Telefon": "0761 233 932",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Manole",
+    "Prenume Client": "Achim",
+    "Email": "achim.manole7357@gmail.com",
+    "Numar Telefon": "0722 103 886",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Diaconu",
+    "Prenume Client": "Dacian",
+    "Email": "dacian.diaconu3681@gmail.com",
+    "Numar Telefon": "0734 291 337",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Voinea",
+    "Prenume Client": "Aurel",
+    "Email": "aurel.voinea7985@gmail.com",
+    "Numar Telefon": "0246 115 712",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Dima",
+    "Prenume Client": "Ciprian",
+    "Email": "ciprian.dima1946@gmail.com",
+    "Numar Telefon": "0769 338 336",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Nistor",
+    "Prenume Client": "Elisabeta",
+    "Email": "elisabeta.nistor7272@gmail.com",
+    "Numar Telefon": "0736 168 114",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Ardelean",
+    "Prenume Client": "Filip",
+    "Email": "filip.ardelean7298@gmail.com",
+    "Numar Telefon": "0245 326 828",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Tudor",
+    "Prenume Client": "Ghenadie",
+    "Email": "ghenadie.tudor5271@gmail.com",
+    "Numar Telefon": "0249 406 756",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Ioniță",
+    "Prenume Client": "Maximilian",
+    "Email": "maximilian.ioniță9811@gmail.com",
+    "Numar Telefon": "0236 730 345",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Voinea",
+    "Prenume Client": "Otilia",
+    "Email": "otilia.voinea7701@gmail.com",
+    "Numar Telefon": "0725 948 438",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Aanei",
+    "Prenume Client": "Aurica",
+    "Email": "aurica.aanei4678@gmail.com",
+    "Numar Telefon": "0761 245 010",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Dumitrescu",
+    "Prenume Client": "Marilena",
+    "Email": "marilena.dumitrescu8988@gmail.com",
+    "Numar Telefon": "0786 517 686",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Dobre",
+    "Prenume Client": "Augustina",
+    "Email": "augustina.dobre8123@gmail.com",
+    "Numar Telefon": "0266 419 311",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Toma",
+    "Prenume Client": "Dominic",
+    "Email": "dominic.toma1937@gmail.com",
+    "Numar Telefon": "0761 705 770",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Aanei",
+    "Prenume Client": "Julia",
+    "Email": "julia.aanei9663@gmail.com",
+    "Numar Telefon": "0238 129 528",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Ardelean",
+    "Prenume Client": "Cedrin",
+    "Email": "cedrin.ardelean5720@gmail.com",
+    "Numar Telefon": "0243 767 752",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Popescu",
+    "Prenume Client": "Valter",
+    "Email": "valter.popescu3428@gmail.com",
+    "Numar Telefon": "0243 111 851",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Stănescu",
+    "Prenume Client": "Oana",
+    "Email": "oana.stănescu6920@gmail.com",
+    "Numar Telefon": "0742 308 143",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Pop",
+    "Prenume Client": "Florentin",
+    "Email": "florentin.pop9597@gmail.com",
+    "Numar Telefon": "0770 856 628",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Dima",
+    "Prenume Client": "Magdalena",
+    "Email": "magdalena.dima6748@gmail.com",
+    "Numar Telefon": "0267 206 449",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Popescu",
+    "Prenume Client": "Maricica",
+    "Email": "maricica.popescu3082@gmail.com",
+    "Numar Telefon": "0260 965 574",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Ionescu",
+    "Prenume Client": "Emilian",
+    "Email": "emilian.ionescu4714@gmail.com",
+    "Numar Telefon": "0235 269 997",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Barbu",
+    "Prenume Client": "Cezara",
+    "Email": "cezara.barbu9007@gmail.com",
+    "Numar Telefon": "0752 089 517",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Nistor",
+    "Prenume Client": "Dida",
+    "Email": "dida.nistor5159@gmail.com",
+    "Numar Telefon": "0732 329 689",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Aanei",
+    "Prenume Client": "Pamfil",
+    "Email": "pamfil.aanei5183@gmail.com",
+    "Numar Telefon": "0759 627 412",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Toma",
+    "Prenume Client": "Flora",
+    "Email": "flora.toma7298@gmail.com",
+    "Numar Telefon": "0780 064 890",
     "Numar_Comenzi": 3
   }
 ]
