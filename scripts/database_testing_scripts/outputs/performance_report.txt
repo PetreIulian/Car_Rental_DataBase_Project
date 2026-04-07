@@ -1,0 +1,15 @@
+=== ANALIZA PERFORMANTA SQL (BEFORE vs AFTER) ===
+
+Rulari per query: 2000
+
+Query: Căutare VIN (BEFORE) -> AVG: 1.26 ms
+Query: Login Username (BEFORE) -> AVG: 1.46 ms
+Query: Căutare Nume Client (BEFORE) -> AVG: 2.01 ms
+Query: Status Masina (BEFORE) -> AVG: 3.49 ms
+Query: Cautare Factura dupa Data (BEFORE) -> AVG: 1.56 ms
+------------------------------
+Query: Căutare VIN (AFTER) -> AVG: 1.10 ms | Improvement: 12.8%
+Query: Login Username (AFTER) -> AVG: 1.09 ms | Improvement: 25.3%
+Query: Căutare Nume Client (AFTER) -> AVG: 1.24 ms | Improvement: 38.4%
+Query: Status Masina (AFTER) -> AVG: 2.77 ms | Improvement: 20.8%
+Query: Cautare Factura dupa Data (AFTER) -> AVG: 1.03 ms | Improvement: 34.3%

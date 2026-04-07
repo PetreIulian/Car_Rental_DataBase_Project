@@ -1,0 +1,86 @@
+[
+  {
+    "Nume Client": "Nemeș",
+    "Prenume Client": "Daciana",
+    "Email": "daciana.nemeș381@gmail.com",
+    "Numar Telefon": "0269 318 848",
+    "Numar_Comenzi": 4
+  },
+  {
+    "Nume Client": "Niță",
+    "Prenume Client": "Varvara",
+    "Email": "varvara.niță928@gmail.com",
+    "Numar Telefon": "0259 615 422",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Diaconescu",
+    "Prenume Client": "Salomea",
+    "Email": "salomea.diaconescu440@gmail.com",
+    "Numar Telefon": "0764 568 159",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Popa",
+    "Prenume Client": "Alexandru",
+    "Email": "alexandru.popa346@gmail.com",
+    "Numar Telefon": "0754 296 501",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Tabacu",
+    "Prenume Client": "Ramona",
+    "Email": "ramona.tabacu963@gmail.com",
+    "Numar Telefon": "0748 654 654",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Ionescu",
+    "Prenume Client": "Georgel",
+    "Email": "georgel.ionescu337@gmail.com",
+    "Numar Telefon": "0757 620 396",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Georgescu",
+    "Prenume Client": "Laura",
+    "Email": "laura.georgescu628@gmail.com",
+    "Numar Telefon": "0745 575 765",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Cristea",
+    "Prenume Client": "Vasilica",
+    "Email": "vasilica.cristea717@gmail.com",
+    "Numar Telefon": "0236 203 823",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Popa",
+    "Prenume Client": "Andreea",
+    "Email": "andreea.popa913@gmail.com",
+    "Numar Telefon": "0722 984 415",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Stan",
+    "Prenume Client": "Alexandra",
+    "Email": "alexandra.stan509@gmail.com",
+    "Numar Telefon": "0758 933 352",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Tabacu",
+    "Prenume Client": "Florina",
+    "Email": "florina.tabacu704@gmail.com",
+    "Numar Telefon": "0720 838 000",
+    "Numar_Comenzi": 3
+  },
+  {
+    "Nume Client": "Florea",
+    "Prenume Client": "Emilia",
+    "Email": "emilia.florea479@gmail.com",
+    "Numar Telefon": "0768 637 689",
+    "Numar_Comenzi": 3
+  }
+]

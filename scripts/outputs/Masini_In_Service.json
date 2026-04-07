@@ -1,0 +1,4026 @@
+[
+  {
+    "id_masina": 1,
+    "marca": "Volkswagen",
+    "model": "Touareg",
+    "nr_inmatriculare": "HR-063-QAT",
+    "vin": "49DYT647455PJ3630",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 3,
+    "marca": "Alfa Romeo",
+    "model": "Brera",
+    "nr_inmatriculare": "CT-757-XOJ",
+    "vin": "TTL88ULB5W6YJ8886",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 5,
+    "marca": "Volvo",
+    "model": "S60",
+    "nr_inmatriculare": "GJ-641-CIZ",
+    "vin": "1XKMNZN324R2Z4131",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 8,
+    "marca": "Jeep",
+    "model": "Grand Cherokee",
+    "nr_inmatriculare": "PH-707-AXS",
+    "vin": "BJEAK33S7S6925131",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 15,
+    "marca": "Maserati",
+    "model": "GranTurismo",
+    "nr_inmatriculare": "BN-60-WUC",
+    "vin": "Z23YS6WH0NXW73062",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 20,
+    "marca": "Dodge",
+    "model": "Charger",
+    "nr_inmatriculare": "CV-87-BCC",
+    "vin": "HK31DVVDXZLV07204",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 36,
+    "marca": "Renault",
+    "model": "Captur",
+    "nr_inmatriculare": "IL-01-BBF",
+    "vin": "BAF5TG2X77NVM6450",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 46,
+    "marca": "Aston Martin",
+    "model": "Rapide",
+    "nr_inmatriculare": "CS-912-FKS",
+    "vin": "C23TEPUV3216T1678",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 51,
+    "marca": "Buick",
+    "model": "LaCrosse",
+    "nr_inmatriculare": "MS-424-DWT",
+    "vin": "XYDTCZEY372WV3312",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 57,
+    "marca": "Jeep",
+    "model": "Grand Cherokee",
+    "nr_inmatriculare": "VS-615-PDW",
+    "vin": "3906WGGS9VHVY3063",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 59,
+    "marca": "Buick",
+    "model": "Regal",
+    "nr_inmatriculare": "IS-685-NLG",
+    "vin": "RVU5BTC81WV636657",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 62,
+    "marca": "Maserati",
+    "model": "Quattroporte",
+    "nr_inmatriculare": "BC-958-JDF",
+    "vin": "G892KV7M1R6DD0253",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 67,
+    "marca": "Renault",
+    "model": "Captur",
+    "nr_inmatriculare": "BC-84-IEO",
+    "vin": "2ND6NPJM1Z36A9272",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 72,
+    "marca": "Aston Martin",
+    "model": "DBX",
+    "nr_inmatriculare": "AG-74-WUD",
+    "vin": "Y0X22WD864FD31761",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 79,
+    "marca": "Audi",
+    "model": "A4",
+    "nr_inmatriculare": "CS-60-SZI",
+    "vin": "B5AABFG26CSMS2465",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 92,
+    "marca": "Chrysler",
+    "model": "300",
+    "nr_inmatriculare": "VN-54-NID",
+    "vin": "NKU3X3F97W1JD4976",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 94,
+    "marca": "Volkswagen",
+    "model": "Passat",
+    "nr_inmatriculare": "BN-240-MOC",
+    "vin": "J5TFP26R5UHTF8649",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 96,
+    "marca": "Volkswagen",
+    "model": "Tiguan",
+    "nr_inmatriculare": "CS-59-SUT",
+    "vin": "0U0U9KJE7D8840940",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 97,
+    "marca": "Volvo",
+    "model": "S60",
+    "nr_inmatriculare": "OT-559-WDK",
+    "vin": "YMJKV2LN741UT1925",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 99,
+    "marca": "Skoda",
+    "model": "Octavia",
+    "nr_inmatriculare": "SM-14-NAD",
+    "vin": "2SSHFLRM0FF980280",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 100,
+    "marca": "Tesla",
+    "model": "Model X",
+    "nr_inmatriculare": "PH-44-IOF",
+    "vin": "EVRJ33DCX3NG54038",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 112,
+    "marca": "Maserati",
+    "model": "Quattroporte",
+    "nr_inmatriculare": "GR-70-ZCX",
+    "vin": "PZUXHYHB223U45478",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 114,
+    "marca": "Seat",
+    "model": "Leon",
+    "nr_inmatriculare": "TR-25-NTI",
+    "vin": "A1GAX7DK890XG3586",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 117,
+    "marca": "Peugeot",
+    "model": "208",
+    "nr_inmatriculare": "DJ-971-QYT",
+    "vin": "0XL5C98B1D5R30429",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 132,
+    "marca": "Hyundai",
+    "model": "Kona",
+    "nr_inmatriculare": "CV-12-PXM",
+    "vin": "H1L1Y3LW79ERZ9690",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 141,
+    "marca": "Alfa Romeo",
+    "model": "159",
+    "nr_inmatriculare": "HD-943-IXB",
+    "vin": "W9XWXUCS3J4MB3859",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 146,
+    "marca": "Volkswagen",
+    "model": "Polo",
+    "nr_inmatriculare": "BV-47-IXJ",
+    "vin": "0KBMXWPF66KBZ1591",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 152,
+    "marca": "Dodge",
+    "model": "RAM",
+    "nr_inmatriculare": "VS-84-BPE",
+    "vin": "NXXWFEBN7MWEN6850",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 155,
+    "marca": "Dodge",
+    "model": "Journey",
+    "nr_inmatriculare": "VS-42-ZEM",
+    "vin": "L02CDN2K2PVAK6018",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 159,
+    "marca": "Ferrari",
+    "model": "Roma",
+    "nr_inmatriculare": "MH-899-JHC",
+    "vin": "WSU441DB6GFL50845",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 165,
+    "marca": "Seat",
+    "model": "Arona",
+    "nr_inmatriculare": "TR-61-WKL",
+    "vin": "KVYGU4BGX6ZJC5736",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 168,
+    "marca": "Kia",
+    "model": "Picanto",
+    "nr_inmatriculare": "TR-351-XAI",
+    "vin": "3G901XL64BE6W7871",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 169,
+    "marca": "Chevrolet",
+    "model": "Malibu",
+    "nr_inmatriculare": "MS-22-HHT",
+    "vin": "0V946KF11WR1A9603",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 175,
+    "marca": "Seat",
+    "model": "Leon",
+    "nr_inmatriculare": "SB-301-TZZ",
+    "vin": "VN1XED198AFML8506",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 178,
+    "marca": "Volkswagen",
+    "model": "Polo",
+    "nr_inmatriculare": "VS-91-WCT",
+    "vin": "W2PJU9190BRG78777",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 179,
+    "marca": "GMC",
+    "model": "Acadia",
+    "nr_inmatriculare": "GL-94-EET",
+    "vin": "VSWVDF5Z4UYYU5040",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 189,
+    "marca": "Buick",
+    "model": "Encore",
+    "nr_inmatriculare": "SM-69-MAM",
+    "vin": "5Y5LR3GE139L57969",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 190,
+    "marca": "Toyota",
+    "model": "RAV4",
+    "nr_inmatriculare": "BH-240-KEV",
+    "vin": "UMGGWPJ53TWBL1576",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 194,
+    "marca": "Audi",
+    "model": "Q5",
+    "nr_inmatriculare": "VS-32-RUU",
+    "vin": "E3T9H7C94F1224388",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 196,
+    "marca": "Aston Martin",
+    "model": "DB11",
+    "nr_inmatriculare": "TM-663-PCU",
+    "vin": "D1RWJ77M0PE3M7790",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 198,
+    "marca": "Nissan",
+    "model": "Qashqai",
+    "nr_inmatriculare": "CJ-94-ZYA",
+    "vin": "3N5861CL5FSAF7437",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 200,
+    "marca": "Honda",
+    "model": "HR-V",
+    "nr_inmatriculare": "IF-874-EGZ",
+    "vin": "E1ZB0YUS442SK0185",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 204,
+    "marca": "Hyundai",
+    "model": "Tucson",
+    "nr_inmatriculare": "AB-06-IMT",
+    "vin": "7A8P84X25H2631208",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 214,
+    "marca": "Nissan",
+    "model": "Qashqai",
+    "nr_inmatriculare": "BH-74-RHY",
+    "vin": "8AWY6E3A69S9M1322",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 220,
+    "marca": "Kia",
+    "model": "Sportage",
+    "nr_inmatriculare": "HR-79-GXQ",
+    "vin": "FHDG5ZFR9BUL84853",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 222,
+    "marca": "Volkswagen",
+    "model": "Tiguan",
+    "nr_inmatriculare": "BC-52-AXD",
+    "vin": "TLDHMMEH0JRYP6842",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 225,
+    "marca": "Mercedes-Benz",
+    "model": "S-Class",
+    "nr_inmatriculare": "TL-701-CRL",
+    "vin": "DZH3PC401DAPH0271",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 232,
+    "marca": "Mercedes-Benz",
+    "model": "S-Class",
+    "nr_inmatriculare": "VN-476-TBH",
+    "vin": "C9KS58J106T262039",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 233,
+    "marca": "Chevrolet",
+    "model": "Camaro",
+    "nr_inmatriculare": "CT-00-GPL",
+    "vin": "JVKUTW813BX541822",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 234,
+    "marca": "Mazda",
+    "model": "Mazda6",
+    "nr_inmatriculare": "SJ-587-GLU",
+    "vin": "TFMPW8ES5U54E3428",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 236,
+    "marca": "Peugeot",
+    "model": "208",
+    "nr_inmatriculare": "B-87-INH",
+    "vin": "SPX0RM277NFWV5664",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 237,
+    "marca": "Mazda",
+    "model": "Mazda3",
+    "nr_inmatriculare": "CS-54-ZXN",
+    "vin": "LE1BC71V0RXY01185",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 238,
+    "marca": "Honda",
+    "model": "Civic",
+    "nr_inmatriculare": "GL-214-OKX",
+    "vin": "K8CALM4G1VEF67046",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 243,
+    "marca": "Honda",
+    "model": "Jazz",
+    "nr_inmatriculare": "MH-931-UBW",
+    "vin": "7NT42GRK21WUC6699",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 246,
+    "marca": "Skoda",
+    "model": "Karoq",
+    "nr_inmatriculare": "IS-21-FEO",
+    "vin": "2Z9DBRKTXM0138874",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 247,
+    "marca": "Peugeot",
+    "model": "2008",
+    "nr_inmatriculare": "HD-44-BZO",
+    "vin": "RK0SUFW28D1CG7832",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 249,
+    "marca": "Maserati",
+    "model": "GranTurismo",
+    "nr_inmatriculare": "CS-64-JZR",
+    "vin": "L20E6S7X5SLJB1937",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 256,
+    "marca": "GMC",
+    "model": "Savana",
+    "nr_inmatriculare": "PH-666-MXV",
+    "vin": "47DYGWWH4V1TT7362",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 258,
+    "marca": "Ferrari",
+    "model": "Roma",
+    "nr_inmatriculare": "GR-296-GFN",
+    "vin": "1V82XTNY4JET22220",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 262,
+    "marca": "Skoda",
+    "model": "Octavia",
+    "nr_inmatriculare": "IF-26-EPR",
+    "vin": "AL6KA8ST1RN0D7590",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 264,
+    "marca": "Peugeot",
+    "model": "308",
+    "nr_inmatriculare": "BC-39-LVX",
+    "vin": "L62A7YG07NZN15381",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 269,
+    "marca": "Seat",
+    "model": "Ibiza",
+    "nr_inmatriculare": "CL-05-DFF",
+    "vin": "3UW0EDW66NL494292",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 272,
+    "marca": "Ferrari",
+    "model": "F8 Tributo",
+    "nr_inmatriculare": "AR-561-PHN",
+    "vin": "H0ZVSUNV5TJPS8531",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 281,
+    "marca": "GMC",
+    "model": "Savana",
+    "nr_inmatriculare": "TR-247-IZY",
+    "vin": "5AMC5G221WM114258",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 283,
+    "marca": "Alfa Romeo",
+    "model": "MiTo",
+    "nr_inmatriculare": "DJ-59-DPD",
+    "vin": "3Y345WVP6JS5F6396",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 286,
+    "marca": "Subaru",
+    "model": "XV",
+    "nr_inmatriculare": "CS-10-CYH",
+    "vin": "PKUK43F780ZJ50270",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 287,
+    "marca": "Mercedes-Benz",
+    "model": "E-Class",
+    "nr_inmatriculare": "BH-510-WWI",
+    "vin": "KDU9URCZ8LWXM2848",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 289,
+    "marca": "Lamborghini",
+    "model": "Revuelto",
+    "nr_inmatriculare": "CL-552-WFP",
+    "vin": "5W269SNU2TD1D0419",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 294,
+    "marca": "Toyota",
+    "model": "Highlander",
+    "nr_inmatriculare": "MS-862-SOO",
+    "vin": "V92K8YHBXWBRP7037",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 296,
+    "marca": "Skoda",
+    "model": "Superb",
+    "nr_inmatriculare": "HR-68-OJZ",
+    "vin": "MUD7JKD32HKXX6885",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 298,
+    "marca": "Subaru",
+    "model": "Legacy",
+    "nr_inmatriculare": "CS-818-ICF",
+    "vin": "SLDGCUW29EUAZ9100",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 299,
+    "marca": "Hyundai",
+    "model": "Santa Fe",
+    "nr_inmatriculare": "SM-202-RGM",
+    "vin": "P4JGC2W34N2FL9252",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 301,
+    "marca": "Kia",
+    "model": "Picanto",
+    "nr_inmatriculare": "IL-740-BIJ",
+    "vin": "KV937A4L9EU139637",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 304,
+    "marca": "Kia",
+    "model": "Rio",
+    "nr_inmatriculare": "TR-30-XUA",
+    "vin": "CW0KB08X966K64309",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 306,
+    "marca": "Mercedes-Benz",
+    "model": "C-Class",
+    "nr_inmatriculare": "BN-71-RIQ",
+    "vin": "LS1CAFM46WDTV3059",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 307,
+    "marca": "Chrysler",
+    "model": "300",
+    "nr_inmatriculare": "GR-85-WIA",
+    "vin": "K2BSHPFX3GP4U2254",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 308,
+    "marca": "Jeep",
+    "model": "Grand Cherokee",
+    "nr_inmatriculare": "CV-269-JQI",
+    "vin": "FGPY2VF64LSK63592",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 311,
+    "marca": "Mazda",
+    "model": "CX-9",
+    "nr_inmatriculare": "GJ-92-GNT",
+    "vin": "J8L5DX5B5R5YL8766",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 312,
+    "marca": "Mazda",
+    "model": "CX-30",
+    "nr_inmatriculare": "BC-999-QOR",
+    "vin": "WHLYMDDN5YBC78325",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 314,
+    "marca": "Dodge",
+    "model": "Journey",
+    "nr_inmatriculare": "AR-79-GTX",
+    "vin": "0M8C4A412M0BR0622",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 315,
+    "marca": "Maserati",
+    "model": "GranTurismo",
+    "nr_inmatriculare": "BN-453-XZZ",
+    "vin": "YBEF7SZ71G81G2132",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 319,
+    "marca": "Ford",
+    "model": "Focus",
+    "nr_inmatriculare": "HR-077-OSJ",
+    "vin": "BWHJC76W8VDFL8367",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 324,
+    "marca": "Ford",
+    "model": "Mustang",
+    "nr_inmatriculare": "DJ-429-NYQ",
+    "vin": "MWDMVJXS7B7L89009",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 325,
+    "marca": "Hyundai",
+    "model": "Tucson",
+    "nr_inmatriculare": "HD-419-RJU",
+    "vin": "SGRMJP0H07JDG7318",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 326,
+    "marca": "Volkswagen",
+    "model": "Passat",
+    "nr_inmatriculare": "GJ-38-HPQ",
+    "vin": "A8ATNL32953E18834",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 327,
+    "marca": "Toyota",
+    "model": "RAV4",
+    "nr_inmatriculare": "GR-152-UOJ",
+    "vin": "JL4Z6D2U45VMX8753",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 330,
+    "marca": "Nissan",
+    "model": "Altima",
+    "nr_inmatriculare": "TR-159-ULF",
+    "vin": "LPH8R7NZ3HXVD1103",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 335,
+    "marca": "Seat",
+    "model": "Arona",
+    "nr_inmatriculare": "OT-015-WKM",
+    "vin": "16L29G7S4CURU5221",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 336,
+    "marca": "Volkswagen",
+    "model": "Touareg",
+    "nr_inmatriculare": "IF-63-SPX",
+    "vin": "4HP3CFBE37U4N7288",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 340,
+    "marca": "Aston Martin",
+    "model": "DB11",
+    "nr_inmatriculare": "B-519-TES",
+    "vin": "KW5RSJZD8L8DB7847",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 341,
+    "marca": "Chrysler",
+    "model": "Voyager",
+    "nr_inmatriculare": "IF-283-ARG",
+    "vin": "02855P58X831Y6060",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 344,
+    "marca": "Renault",
+    "model": "Talisman",
+    "nr_inmatriculare": "SM-46-BFC",
+    "vin": "7ZR71YU30DR0R2400",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 349,
+    "marca": "Renault",
+    "model": "Talisman",
+    "nr_inmatriculare": "CL-554-AYB",
+    "vin": "2SKJDLHA39F1M6183",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 354,
+    "marca": "Peugeot",
+    "model": "3008",
+    "nr_inmatriculare": "SV-46-PXG",
+    "vin": "9VSYHVAJ6ARMV8753",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 357,
+    "marca": "Ford",
+    "model": "Mustang",
+    "nr_inmatriculare": "MM-99-YFA",
+    "vin": "DP1T38RV2BN7R7012",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 359,
+    "marca": "Kia",
+    "model": "Picanto",
+    "nr_inmatriculare": "BR-48-VIG",
+    "vin": "9P156N475S6965522",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 361,
+    "marca": "Dodge",
+    "model": "Challenger",
+    "nr_inmatriculare": "CV-89-CUX",
+    "vin": "ESGEZWTC5G0KS2718",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 368,
+    "marca": "Alfa Romeo",
+    "model": "Stelvio",
+    "nr_inmatriculare": "BC-40-FKL",
+    "vin": "VJCY3W6R5GN8Z0826",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 369,
+    "marca": "Fiat",
+    "model": "500",
+    "nr_inmatriculare": "SM-149-QCN",
+    "vin": "ZHXRJ7RH8J7SK5817",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 373,
+    "marca": "Volkswagen",
+    "model": "Passat",
+    "nr_inmatriculare": "B-951-HYX",
+    "vin": "H0683R87XPDG75110",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 378,
+    "marca": "BMW",
+    "model": "X5",
+    "nr_inmatriculare": "TM-30-OCB",
+    "vin": "SB520M3U7RLVD2855",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 379,
+    "marca": "Alfa Romeo",
+    "model": "MiTo",
+    "nr_inmatriculare": "SV-313-INW",
+    "vin": "VAKE9J99X3YU70038",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 380,
+    "marca": "Hyundai",
+    "model": "Tucson",
+    "nr_inmatriculare": "GR-15-UKZ",
+    "vin": "A0GA25XZ7FWYT0832",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 381,
+    "marca": "Volvo",
+    "model": "XC60",
+    "nr_inmatriculare": "SB-16-RYG",
+    "vin": "SMHY8C97471ED8306",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 388,
+    "marca": "Honda",
+    "model": "Civic",
+    "nr_inmatriculare": "OT-734-KHW",
+    "vin": "992PT1CP14U2G9683",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 396,
+    "marca": "Skoda",
+    "model": "Kodiaq",
+    "nr_inmatriculare": "CT-29-DDJ",
+    "vin": "SDPWAA939U5US2819",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 401,
+    "marca": "Toyota",
+    "model": "Corolla",
+    "nr_inmatriculare": "BN-759-ABC",
+    "vin": "5UCXG9ZZ4WS6C8264",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 404,
+    "marca": "Chevrolet",
+    "model": "Tahoe",
+    "nr_inmatriculare": "AR-960-DRO",
+    "vin": "H0664H6J9ZZR54211",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 405,
+    "marca": "Lamborghini",
+    "model": "Huracan",
+    "nr_inmatriculare": "TR-249-CGS",
+    "vin": "ZS4WBP8U9DUFP7047",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 412,
+    "marca": "GMC",
+    "model": "Sierra",
+    "nr_inmatriculare": "IF-969-DTF",
+    "vin": "1R4NA46P849T00483",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 414,
+    "marca": "Tesla",
+    "model": "Model S",
+    "nr_inmatriculare": "SV-244-LYG",
+    "vin": "6PHGKW3795T338164",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 416,
+    "marca": "Ford",
+    "model": "Mondeo",
+    "nr_inmatriculare": "CT-65-ECQ",
+    "vin": "977HJF3Z9DLY16948",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 420,
+    "marca": "Buick",
+    "model": "Encore",
+    "nr_inmatriculare": "BT-770-VUZ",
+    "vin": "RZ387HCM8KPCV8637",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 423,
+    "marca": "Ford",
+    "model": "Fiesta",
+    "nr_inmatriculare": "MH-82-JGX",
+    "vin": "L8LWCWC868WJL2752",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 432,
+    "marca": "Fiat",
+    "model": "Punto",
+    "nr_inmatriculare": "GJ-029-QPH",
+    "vin": "HSVP3A6F2EK2B4972",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 434,
+    "marca": "Mazda",
+    "model": "CX-9",
+    "nr_inmatriculare": "HD-14-VGR",
+    "vin": "K22FN7RA49PC11418",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 436,
+    "marca": "Jeep",
+    "model": "Cherokee",
+    "nr_inmatriculare": "AR-98-IGX",
+    "vin": "R4EYHXGU3RWWP4084",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 444,
+    "marca": "Alfa Romeo",
+    "model": "159",
+    "nr_inmatriculare": "VN-368-CRK",
+    "vin": "TZZR2FSL15TTT5169",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 445,
+    "marca": "Dodge",
+    "model": "Challenger",
+    "nr_inmatriculare": "AB-891-SFP",
+    "vin": "KFG8CT5518MT23676",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 448,
+    "marca": "Dodge",
+    "model": "Durango",
+    "nr_inmatriculare": "AG-842-KGY",
+    "vin": "MMZF5LTA6H7JN1473",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 450,
+    "marca": "Ford",
+    "model": "Mondeo",
+    "nr_inmatriculare": "GJ-76-TOG",
+    "vin": "7AURBGF13H6P02761",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 459,
+    "marca": "Skoda",
+    "model": "Scala",
+    "nr_inmatriculare": "MM-16-XGM",
+    "vin": "E0F19JCW2PCAK9650",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 462,
+    "marca": "Alfa Romeo",
+    "model": "Brera",
+    "nr_inmatriculare": "BV-74-XPW",
+    "vin": "LRBYZ5UV1ATFB1242",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 463,
+    "marca": "Skoda",
+    "model": "Karoq",
+    "nr_inmatriculare": "GJ-92-YUP",
+    "vin": "HMF7X1T28FPZ83198",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 470,
+    "marca": "Lamborghini",
+    "model": "Revuelto",
+    "nr_inmatriculare": "DJ-788-ZEK",
+    "vin": "DJH8JNBC5ZS190987",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 473,
+    "marca": "Skoda",
+    "model": "Scala",
+    "nr_inmatriculare": "AG-14-HZY",
+    "vin": "AZ80ZWM82NDPU9634",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 474,
+    "marca": "Tesla",
+    "model": "Model 3",
+    "nr_inmatriculare": "BR-460-JBB",
+    "vin": "ZXPLT5ZRXEZH44620",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 475,
+    "marca": "Audi",
+    "model": "Q7",
+    "nr_inmatriculare": "BN-019-PGT",
+    "vin": "USJXPKFF8G8VC3896",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 478,
+    "marca": "Aston Martin",
+    "model": "DBS",
+    "nr_inmatriculare": "MM-354-GZY",
+    "vin": "E746EART4NERF1696",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 479,
+    "marca": "Tesla",
+    "model": "Cybertruck",
+    "nr_inmatriculare": "VL-717-HDQ",
+    "vin": "Y6MNXC8NXUZAF5087",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 480,
+    "marca": "Hyundai",
+    "model": "Elantra",
+    "nr_inmatriculare": "SJ-94-ZNS",
+    "vin": "21L43EKL7YR381097",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 481,
+    "marca": "BMW",
+    "model": "Seria 5",
+    "nr_inmatriculare": "MM-464-RWI",
+    "vin": "RK1YA9J5XB1C42305",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 484,
+    "marca": "Fiat",
+    "model": "500",
+    "nr_inmatriculare": "DJ-21-NRK",
+    "vin": "KWXX93860YY5X3420",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 490,
+    "marca": "Ferrari",
+    "model": "F8 Tributo",
+    "nr_inmatriculare": "CL-862-USP",
+    "vin": "5SPYNE4N6GAWK5460",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 491,
+    "marca": "Kia",
+    "model": "Ceed",
+    "nr_inmatriculare": "GL-049-OKH",
+    "vin": "STB0L03G05Y414553",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 492,
+    "marca": "BMW",
+    "model": "Seria 3",
+    "nr_inmatriculare": "AB-762-YYK",
+    "vin": "WBF69KCC5XA4Y1036",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 501,
+    "marca": "Maserati",
+    "model": "Ghibli",
+    "nr_inmatriculare": "IL-043-UWA",
+    "vin": "8J4WP2JR8MGEJ4689",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 506,
+    "marca": "Toyota",
+    "model": "Corolla",
+    "nr_inmatriculare": "AB-867-ASO",
+    "vin": "H2H25ZE874UBS3098",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 509,
+    "marca": "Buick",
+    "model": "Enclave",
+    "nr_inmatriculare": "BT-921-FRU",
+    "vin": "R57RR2LC4RNRF1385",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 512,
+    "marca": "Dodge",
+    "model": "Charger",
+    "nr_inmatriculare": "BN-824-GAC",
+    "vin": "GYZW7B4FXKKPE3855",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 513,
+    "marca": "Chrysler",
+    "model": "300",
+    "nr_inmatriculare": "BZ-001-UEY",
+    "vin": "48KA655M2JUXE1841",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 523,
+    "marca": "Maserati",
+    "model": "Ghibli",
+    "nr_inmatriculare": "BN-302-FRH",
+    "vin": "L6P0P4VY46BGG6579",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 526,
+    "marca": "BMW",
+    "model": "X3",
+    "nr_inmatriculare": "CL-29-HJY",
+    "vin": "HYDVX8R32A8FA1962",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 527,
+    "marca": "Aston Martin",
+    "model": "Vantage",
+    "nr_inmatriculare": "GL-235-BHP",
+    "vin": "SH49MCV2713MN0079",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 529,
+    "marca": "Chrysler",
+    "model": "300",
+    "nr_inmatriculare": "BC-010-KSG",
+    "vin": "9GR8AS6L4Y7649226",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 532,
+    "marca": "Seat",
+    "model": "Arona",
+    "nr_inmatriculare": "SB-083-OPG",
+    "vin": "H37VKZ03761PR4829",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 537,
+    "marca": "Subaru",
+    "model": "Impreza",
+    "nr_inmatriculare": "NT-555-GFL",
+    "vin": "504VV2S156RLE7431",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 539,
+    "marca": "Chevrolet",
+    "model": "Impala",
+    "nr_inmatriculare": "VS-116-LDY",
+    "vin": "ZRS24W6D2AKH36419",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 544,
+    "marca": "Peugeot",
+    "model": "2008",
+    "nr_inmatriculare": "TM-122-ZFM",
+    "vin": "0H1ZKDPK3F33N2109",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 545,
+    "marca": "Volkswagen",
+    "model": "Touareg",
+    "nr_inmatriculare": "MM-861-BJA",
+    "vin": "X9RTH20E1BJWK5851",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 548,
+    "marca": "Nissan",
+    "model": "Altima",
+    "nr_inmatriculare": "MS-16-MQZ",
+    "vin": "0U14RJ9F1G0X99257",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 549,
+    "marca": "Ford",
+    "model": "Focus",
+    "nr_inmatriculare": "TM-04-WUV",
+    "vin": "FXLE7BVF1WSBT2956",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 553,
+    "marca": "Skoda",
+    "model": "Superb",
+    "nr_inmatriculare": "BZ-08-SIK",
+    "vin": "AZ4K4JN4XUL187056",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 557,
+    "marca": "Subaru",
+    "model": "Forester",
+    "nr_inmatriculare": "GL-802-AMM",
+    "vin": "NKLM1Y0T6W06A4013",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 564,
+    "marca": "Volkswagen",
+    "model": "Passat",
+    "nr_inmatriculare": "MM-677-BYU",
+    "vin": "AV7GDX01934093627",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 567,
+    "marca": "BMW",
+    "model": "Seria 3",
+    "nr_inmatriculare": "BC-730-PXN",
+    "vin": "W7YX34WG5AHFE3408",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 568,
+    "marca": "Chevrolet",
+    "model": "Equinox",
+    "nr_inmatriculare": "TL-97-FIA",
+    "vin": "NE2KY9LS2EUE08464",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 571,
+    "marca": "Mercedes-Benz",
+    "model": "GLC",
+    "nr_inmatriculare": "PH-371-RZN",
+    "vin": "NS4PU20L840RR7656",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 575,
+    "marca": "Ferrari",
+    "model": "Portofino",
+    "nr_inmatriculare": "OT-731-IYE",
+    "vin": "J7T4F1435XKCD3931",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 576,
+    "marca": "GMC",
+    "model": "Canyon",
+    "nr_inmatriculare": "B-930-RAW",
+    "vin": "L4UL0E80X2YNH7382",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 580,
+    "marca": "GMC",
+    "model": "Yukon",
+    "nr_inmatriculare": "IS-05-LDD",
+    "vin": "9W98C0E24CG1Y0197",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 581,
+    "marca": "Buick",
+    "model": "Regal",
+    "nr_inmatriculare": "BC-585-QPM",
+    "vin": "EBHHC0TK4USTM6302",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 582,
+    "marca": "Mazda",
+    "model": "Mazda3",
+    "nr_inmatriculare": "CJ-50-KEO",
+    "vin": "B7SU6KHB3C5GD3761",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 588,
+    "marca": "Toyota",
+    "model": "Highlander",
+    "nr_inmatriculare": "BC-65-SBG",
+    "vin": "GVW18ZK43UXKP2289",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 595,
+    "marca": "Skoda",
+    "model": "Superb",
+    "nr_inmatriculare": "BR-93-UWD",
+    "vin": "RFW1NCMVXVZKZ5500",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 596,
+    "marca": "Volvo",
+    "model": "S60",
+    "nr_inmatriculare": "VL-258-XHD",
+    "vin": "T5867HMK633F28396",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 602,
+    "marca": "Peugeot",
+    "model": "2008",
+    "nr_inmatriculare": "AR-67-XNL",
+    "vin": "MJNSMKNN2GFRH1554",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 608,
+    "marca": "BMW",
+    "model": "Seria 3",
+    "nr_inmatriculare": "HD-91-ZXH",
+    "vin": "HT4UYD0S606AZ1768",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 616,
+    "marca": "Toyota",
+    "model": "Camry",
+    "nr_inmatriculare": "GL-838-NRI",
+    "vin": "3F36D6AZ7RN4H1574",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 622,
+    "marca": "Lamborghini",
+    "model": "Revuelto",
+    "nr_inmatriculare": "OT-396-CUF",
+    "vin": "ARCY1K569A12V1299",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 623,
+    "marca": "Renault",
+    "model": "Austral",
+    "nr_inmatriculare": "HR-24-AYE",
+    "vin": "PED31BJ164SLB2765",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 625,
+    "marca": "Honda",
+    "model": "HR-V",
+    "nr_inmatriculare": "SM-57-QDN",
+    "vin": "4HEHU1FV71CG92155",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 629,
+    "marca": "Tesla",
+    "model": "Model S",
+    "nr_inmatriculare": "BV-96-OVA",
+    "vin": "RV8U0HZXXST4F0807",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 635,
+    "marca": "Subaru",
+    "model": "Outback",
+    "nr_inmatriculare": "CS-45-DTY",
+    "vin": "FHA7M25N9HPLB1281",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 641,
+    "marca": "Chevrolet",
+    "model": "Camaro",
+    "nr_inmatriculare": "PH-066-LWA",
+    "vin": "5J4Y88FS9LXNB3731",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 644,
+    "marca": "Nissan",
+    "model": "Altima",
+    "nr_inmatriculare": "SV-67-FKU",
+    "vin": "NG4AK2GG66Z813624",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 645,
+    "marca": "Mazda",
+    "model": "CX-5",
+    "nr_inmatriculare": "CT-13-ZEV",
+    "vin": "XYRV29414NZ334158",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 648,
+    "marca": "Aston Martin",
+    "model": "Rapide",
+    "nr_inmatriculare": "AG-74-SIH",
+    "vin": "Y253KYD2XMZG07822",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 650,
+    "marca": "Chrysler",
+    "model": "Voyager",
+    "nr_inmatriculare": "MH-232-OPC",
+    "vin": "VBZAJFC440DW90928",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 657,
+    "marca": "GMC",
+    "model": "Savana",
+    "nr_inmatriculare": "TL-022-SDX",
+    "vin": "FKNGHEXV60MXW0119",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 660,
+    "marca": "Aston Martin",
+    "model": "Vantage",
+    "nr_inmatriculare": "BZ-18-JYX",
+    "vin": "H7T8NNPN9BNZC8336",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 663,
+    "marca": "Peugeot",
+    "model": "2008",
+    "nr_inmatriculare": "BN-23-LKX",
+    "vin": "UM6N90G3X1BN31040",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 664,
+    "marca": "Mazda",
+    "model": "CX-30",
+    "nr_inmatriculare": "GJ-294-PJZ",
+    "vin": "7YG4PL630EPEL1311",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 665,
+    "marca": "Seat",
+    "model": "Leon",
+    "nr_inmatriculare": "HR-161-GJM",
+    "vin": "VC51ZM3Y37BX49445",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 667,
+    "marca": "Dodge",
+    "model": "Charger",
+    "nr_inmatriculare": "DJ-31-ZOQ",
+    "vin": "429BZ8YL2AEAB4034",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 674,
+    "marca": "Mercedes-Benz",
+    "model": "GLE",
+    "nr_inmatriculare": "BT-805-GPI",
+    "vin": "73BS5DXA44R9C2287",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 679,
+    "marca": "Maserati",
+    "model": "Quattroporte",
+    "nr_inmatriculare": "AR-80-AQT",
+    "vin": "66K9T0FU3ADVA8952",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 680,
+    "marca": "Audi",
+    "model": "Q5",
+    "nr_inmatriculare": "BR-414-EJH",
+    "vin": "VNCKM7NC7ETR89349",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 685,
+    "marca": "Jeep",
+    "model": "Cherokee",
+    "nr_inmatriculare": "MS-435-CYC",
+    "vin": "9L26YFDRXWATC0840",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 689,
+    "marca": "Jeep",
+    "model": "Cherokee",
+    "nr_inmatriculare": "TM-427-NYY",
+    "vin": "4YY20E465RNG23908",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 692,
+    "marca": "Chrysler",
+    "model": "Concorde",
+    "nr_inmatriculare": "OT-845-WRT",
+    "vin": "BZS8VWZRX7MA85495",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 693,
+    "marca": "BMW",
+    "model": "Seria 5",
+    "nr_inmatriculare": "GL-549-AEA",
+    "vin": "BEHHBYB57UEGD5128",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 694,
+    "marca": "Fiat",
+    "model": "500",
+    "nr_inmatriculare": "BH-638-SKC",
+    "vin": "7BNB7LAU15KH10388",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 696,
+    "marca": "Aston Martin",
+    "model": "Vantage",
+    "nr_inmatriculare": "B-84-XOR",
+    "vin": "4JBXGEH15D6113631",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 715,
+    "marca": "Toyota",
+    "model": "RAV4",
+    "nr_inmatriculare": "SB-777-YZP",
+    "vin": "KM7XPF3C167395938",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 717,
+    "marca": "Renault",
+    "model": "Captur",
+    "nr_inmatriculare": "BR-53-UZP",
+    "vin": "VF2HU17J8CM677963",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 718,
+    "marca": "Nissan",
+    "model": "Juke",
+    "nr_inmatriculare": "TM-16-YWV",
+    "vin": "ZAH5N1AY5H1GE0656",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 729,
+    "marca": "Audi",
+    "model": "A4",
+    "nr_inmatriculare": "VL-624-JQJ",
+    "vin": "JWHTJ7MV0U1T64323",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 732,
+    "marca": "Peugeot",
+    "model": "208",
+    "nr_inmatriculare": "BR-72-AOD",
+    "vin": "3Z90MXAX77VBG1482",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 733,
+    "marca": "Volvo",
+    "model": "V90",
+    "nr_inmatriculare": "BH-59-VLR",
+    "vin": "Y45YBLBP38LAS4126",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 738,
+    "marca": "Mazda",
+    "model": "Mazda3",
+    "nr_inmatriculare": "SB-14-XFI",
+    "vin": "3D02ZKTM4CBKJ7173",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 740,
+    "marca": "Jeep",
+    "model": "Renegade",
+    "nr_inmatriculare": "SB-534-IMG",
+    "vin": "CZMXVKCB763FE9523",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 749,
+    "marca": "Buick",
+    "model": "LaCrosse",
+    "nr_inmatriculare": "IS-53-AXP",
+    "vin": "5KULV6GSXEET12674",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 753,
+    "marca": "Fiat",
+    "model": "Bravo",
+    "nr_inmatriculare": "HR-28-HKE",
+    "vin": "Y714NZXT34EHY0286",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 757,
+    "marca": "Aston Martin",
+    "model": "DBS",
+    "nr_inmatriculare": "GL-812-XAU",
+    "vin": "4TT1F2GMX1GW76443",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 758,
+    "marca": "Peugeot",
+    "model": "2008",
+    "nr_inmatriculare": "TL-843-JNG",
+    "vin": "LKLEZ9ABX7JPD4232",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 765,
+    "marca": "Subaru",
+    "model": "XV",
+    "nr_inmatriculare": "CV-65-ADF",
+    "vin": "N6TBKMC63KP8L3026",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 773,
+    "marca": "Jeep",
+    "model": "Renegade",
+    "nr_inmatriculare": "GL-733-GZY",
+    "vin": "KJDRUN652XJNB5937",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 775,
+    "marca": "Kia",
+    "model": "Sorento",
+    "nr_inmatriculare": "SM-405-VMU",
+    "vin": "XSVVU0YR117N76191",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 781,
+    "marca": "Toyota",
+    "model": "RAV4",
+    "nr_inmatriculare": "DB-532-TQN",
+    "vin": "1BG82GGM7RPYM6368",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 787,
+    "marca": "Volvo",
+    "model": "S60",
+    "nr_inmatriculare": "CV-78-VYA",
+    "vin": "3R8VVVHW7B23F9141",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 788,
+    "marca": "Dodge",
+    "model": "Charger",
+    "nr_inmatriculare": "HD-592-HRT",
+    "vin": "WW70N5C58C4MV5826",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 796,
+    "marca": "Alfa Romeo",
+    "model": "MiTo",
+    "nr_inmatriculare": "CL-083-OUB",
+    "vin": "2TKJVRLR36W548894",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 804,
+    "marca": "Audi",
+    "model": "A4",
+    "nr_inmatriculare": "AG-65-RYQ",
+    "vin": "CHMW6W34XWAWZ3434",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 813,
+    "marca": "Ferrari",
+    "model": "F8 Tributo",
+    "nr_inmatriculare": "BT-454-LEI",
+    "vin": "D984UYL498NAA4966",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 816,
+    "marca": "Volvo",
+    "model": "V60",
+    "nr_inmatriculare": "BV-58-PKT",
+    "vin": "R9JBUVXT2AL2R2499",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 823,
+    "marca": "Kia",
+    "model": "Ceed",
+    "nr_inmatriculare": "DJ-58-NJN",
+    "vin": "4FAMK2Y15MW1X3220",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 824,
+    "marca": "Lamborghini",
+    "model": "Revuelto",
+    "nr_inmatriculare": "SV-258-ZPM",
+    "vin": "HBF6UGZL1WLX60526",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 829,
+    "marca": "Dodge",
+    "model": "Charger",
+    "nr_inmatriculare": "AG-112-ADR",
+    "vin": "YM4SR33X9EXJT1137",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 833,
+    "marca": "Peugeot",
+    "model": "308",
+    "nr_inmatriculare": "IS-476-FIG",
+    "vin": "GPNSFD23XEMVA2469",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 835,
+    "marca": "Mercedes-Benz",
+    "model": "C-Class",
+    "nr_inmatriculare": "BN-92-KYV",
+    "vin": "E7ANUVS948BC91531",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 837,
+    "marca": "Volkswagen",
+    "model": "Touareg",
+    "nr_inmatriculare": "TL-723-CMA",
+    "vin": "HHD31NTR7KMKJ4339",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 840,
+    "marca": "Volkswagen",
+    "model": "Polo",
+    "nr_inmatriculare": "DB-28-UNS",
+    "vin": "JJ7JCE9R7RXXK9012",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 845,
+    "marca": "Ford",
+    "model": "Mustang",
+    "nr_inmatriculare": "MM-35-PSI",
+    "vin": "ZTK7Y36L0P9J55772",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 846,
+    "marca": "Chevrolet",
+    "model": "Impala",
+    "nr_inmatriculare": "GJ-18-EJU",
+    "vin": "SX1M1VNB6R1TA8687",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 851,
+    "marca": "Volvo",
+    "model": "S60",
+    "nr_inmatriculare": "BT-23-WZX",
+    "vin": "RVVP1U8R1U8LA6653",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 858,
+    "marca": "Nissan",
+    "model": "Micra",
+    "nr_inmatriculare": "VN-13-GSY",
+    "vin": "YUY6XZF68JA2N2914",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 861,
+    "marca": "BMW",
+    "model": "Seria 3",
+    "nr_inmatriculare": "B-861-FXC",
+    "vin": "BMVSVYWZ3E3G02620",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 863,
+    "marca": "Volkswagen",
+    "model": "Tiguan",
+    "nr_inmatriculare": "TL-72-JYT",
+    "vin": "HS2KYDF17UNMY8829",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 870,
+    "marca": "GMC",
+    "model": "Savana",
+    "nr_inmatriculare": "TL-232-WKG",
+    "vin": "WDAYNS9R0F6UH8828",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 873,
+    "marca": "Seat",
+    "model": "Ibiza",
+    "nr_inmatriculare": "CS-784-YND",
+    "vin": "G0M3HJ818KZLP5971",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 874,
+    "marca": "Alfa Romeo",
+    "model": "MiTo",
+    "nr_inmatriculare": "TR-03-CZK",
+    "vin": "KLLPD4D489KV27758",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 875,
+    "marca": "Maserati",
+    "model": "Quattroporte",
+    "nr_inmatriculare": "TM-23-OXN",
+    "vin": "0957GAMM57B955245",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 876,
+    "marca": "Ford",
+    "model": "Explorer",
+    "nr_inmatriculare": "OT-845-LYN",
+    "vin": "DVHJ77CD4CU0G2410",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 877,
+    "marca": "Lamborghini",
+    "model": "Gallardo",
+    "nr_inmatriculare": "AB-120-CPW",
+    "vin": "DPBDR3UP739BR9909",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 879,
+    "marca": "Mazda",
+    "model": "CX-30",
+    "nr_inmatriculare": "BR-08-PCT",
+    "vin": "HKFESWNZ6FAU12545",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 894,
+    "marca": "Fiat",
+    "model": "Bravo",
+    "nr_inmatriculare": "VS-434-QRJ",
+    "vin": "547DRE1K9DTDY6086",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 903,
+    "marca": "Nissan",
+    "model": "Micra",
+    "nr_inmatriculare": "CJ-062-XTL",
+    "vin": "YG01E4YS8E6Y13159",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 911,
+    "marca": "Peugeot",
+    "model": "2008",
+    "nr_inmatriculare": "AB-095-WDO",
+    "vin": "8U7WKT1Y6X38G7964",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 914,
+    "marca": "GMC",
+    "model": "Sierra",
+    "nr_inmatriculare": "BH-858-ZKT",
+    "vin": "9CA0GZNYXCNGX9475",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 918,
+    "marca": "Aston Martin",
+    "model": "Vantage",
+    "nr_inmatriculare": "TR-868-ZTI",
+    "vin": "6YRRCP03XK15B3987",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 920,
+    "marca": "Toyota",
+    "model": "Highlander",
+    "nr_inmatriculare": "HR-43-PWM",
+    "vin": "3C0M770N6M32V1746",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 924,
+    "marca": "Peugeot",
+    "model": "508",
+    "nr_inmatriculare": "MM-14-IUK",
+    "vin": "UHFXWGZHX6ZD77820",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 935,
+    "marca": "Chrysler",
+    "model": "Pacifica",
+    "nr_inmatriculare": "VN-83-BIB",
+    "vin": "S66MRKBE8Y19V1929",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 938,
+    "marca": "Alfa Romeo",
+    "model": "159",
+    "nr_inmatriculare": "NT-69-WRO",
+    "vin": "WBLHKA9B8B0AF1694",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 941,
+    "marca": "Toyota",
+    "model": "Camry",
+    "nr_inmatriculare": "AR-508-KAH",
+    "vin": "UD6X19NW9GNLF3139",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 949,
+    "marca": "Mercedes-Benz",
+    "model": "E-Class",
+    "nr_inmatriculare": "BH-47-SRW",
+    "vin": "75E7SG264VYXJ5700",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 950,
+    "marca": "Chevrolet",
+    "model": "Impala",
+    "nr_inmatriculare": "BT-210-CUF",
+    "vin": "VJHBXRKK7U0R79580",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 953,
+    "marca": "Jeep",
+    "model": "Cherokee",
+    "nr_inmatriculare": "VL-05-GGB",
+    "vin": "NE3G1KP58UPT77684",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 958,
+    "marca": "Kia",
+    "model": "Rio",
+    "nr_inmatriculare": "AB-93-XLQ",
+    "vin": "1M2JUGTF3E9KU6783",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 961,
+    "marca": "Renault",
+    "model": "Megane",
+    "nr_inmatriculare": "AR-43-TOM",
+    "vin": "N6V962DP1AADX7988",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 966,
+    "marca": "Nissan",
+    "model": "Juke",
+    "nr_inmatriculare": "DB-555-BVP",
+    "vin": "9SH8M1RC65A6G9989",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 970,
+    "marca": "Peugeot",
+    "model": "2008",
+    "nr_inmatriculare": "DB-507-GZD",
+    "vin": "Z3W1RGGV87VSM3792",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 971,
+    "marca": "Ferrari",
+    "model": "Roma",
+    "nr_inmatriculare": "HD-724-VBS",
+    "vin": "0Y2JW38W59LED6475",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 972,
+    "marca": "Audi",
+    "model": "A6",
+    "nr_inmatriculare": "SJ-10-LUX",
+    "vin": "B99KJ40S18JRW7131",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 977,
+    "marca": "Honda",
+    "model": "CR-V",
+    "nr_inmatriculare": "TR-418-YCB",
+    "vin": "1SLNJKA46BYPA7928",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 979,
+    "marca": "Peugeot",
+    "model": "208",
+    "nr_inmatriculare": "VL-49-RDF",
+    "vin": "J0SRGV378PCJH9482",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 989,
+    "marca": "Chrysler",
+    "model": "Voyager",
+    "nr_inmatriculare": "SM-87-INE",
+    "vin": "65PVL40R5WKD82282",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1001,
+    "marca": "GMC",
+    "model": "Canyon",
+    "nr_inmatriculare": "IF-131-WBL",
+    "vin": "3UXDRVUW91AN38902",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1003,
+    "marca": "Mazda",
+    "model": "CX-5",
+    "nr_inmatriculare": "PH-568-HYS",
+    "vin": "Y4H0KBL70HKPN5415",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1006,
+    "marca": "Lamborghini",
+    "model": "Urus",
+    "nr_inmatriculare": "MH-540-BVN",
+    "vin": "XF6HRYTW8YTDK2421",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1012,
+    "marca": "Ferrari",
+    "model": "Roma",
+    "nr_inmatriculare": "IF-468-MDF",
+    "vin": "DBSS27TX15DA95518",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1015,
+    "marca": "Maserati",
+    "model": "GranTurismo",
+    "nr_inmatriculare": "IL-57-JJL",
+    "vin": "KEZT35XX6TYPZ7424",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1016,
+    "marca": "Nissan",
+    "model": "Altima",
+    "nr_inmatriculare": "GL-81-CEG",
+    "vin": "A98V9LK50BEAJ7699",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1017,
+    "marca": "Nissan",
+    "model": "Micra",
+    "nr_inmatriculare": "GR-36-WLG",
+    "vin": "L7A5742L1UWKY4755",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1018,
+    "marca": "Tesla",
+    "model": "Model Y",
+    "nr_inmatriculare": "VS-144-ERK",
+    "vin": "RXTAG4YA5ZMRA3428",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1020,
+    "marca": "Kia",
+    "model": "Rio",
+    "nr_inmatriculare": "GR-931-PDJ",
+    "vin": "X9T33J8548F3M8048",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1021,
+    "marca": "Volvo",
+    "model": "V60",
+    "nr_inmatriculare": "AR-40-OCX",
+    "vin": "86KJMVX681M7V8431",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1023,
+    "marca": "Skoda",
+    "model": "Octavia",
+    "nr_inmatriculare": "GJ-27-PZC",
+    "vin": "6FNLRZ4SX6M2G6844",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1034,
+    "marca": "Tesla",
+    "model": "Model 3",
+    "nr_inmatriculare": "AG-53-DSR",
+    "vin": "XTM3F1EC0UHE75708",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1035,
+    "marca": "Renault",
+    "model": "Austral",
+    "nr_inmatriculare": "PH-295-KQI",
+    "vin": "HG383VRH7NMF33621",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1040,
+    "marca": "Honda",
+    "model": "Jazz",
+    "nr_inmatriculare": "NT-046-FKC",
+    "vin": "R5AVKBAR215WU9848",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1041,
+    "marca": "Buick",
+    "model": "Regal",
+    "nr_inmatriculare": "SM-53-IEA",
+    "vin": "HXCL4ZW80GZN06959",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1048,
+    "marca": "Aston Martin",
+    "model": "Vantage",
+    "nr_inmatriculare": "BR-762-NYF",
+    "vin": "NJPLCREZ6BGNS3748",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1049,
+    "marca": "Audi",
+    "model": "A3",
+    "nr_inmatriculare": "HD-136-WYM",
+    "vin": "THNH6SNY18WF82843",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1052,
+    "marca": "Jeep",
+    "model": "Renegade",
+    "nr_inmatriculare": "BH-448-TFO",
+    "vin": "9ZWSH8T3323N82290",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1054,
+    "marca": "Ford",
+    "model": "Mondeo",
+    "nr_inmatriculare": "BZ-192-LXI",
+    "vin": "VG81LDBK42SEJ3165",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1056,
+    "marca": "Seat",
+    "model": "Tarraco",
+    "nr_inmatriculare": "MM-941-IFU",
+    "vin": "VLHMZTK9XGRKM5518",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1062,
+    "marca": "Fiat",
+    "model": "Punto",
+    "nr_inmatriculare": "HD-436-BQR",
+    "vin": "01BADN4Y2M03P2816",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1071,
+    "marca": "Chrysler",
+    "model": "Concorde",
+    "nr_inmatriculare": "SJ-412-DJX",
+    "vin": "YZC554JD732TV0294",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1075,
+    "marca": "Chrysler",
+    "model": "200",
+    "nr_inmatriculare": "BZ-88-XGW",
+    "vin": "AWEXSY8L64P4X0301",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1077,
+    "marca": "Peugeot",
+    "model": "2008",
+    "nr_inmatriculare": "CL-63-WNT",
+    "vin": "PAZ05V6S6TTGX9335",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1078,
+    "marca": "Seat",
+    "model": "Ibiza",
+    "nr_inmatriculare": "AG-738-OVJ",
+    "vin": "23VU1SBY69AFP6365",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1081,
+    "marca": "Ford",
+    "model": "Focus",
+    "nr_inmatriculare": "VN-93-QCX",
+    "vin": "K9E7FHU68NKXC3653",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1084,
+    "marca": "Tesla",
+    "model": "Model Y",
+    "nr_inmatriculare": "BC-110-WWG",
+    "vin": "X1BV55R70LB7T9432",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1091,
+    "marca": "BMW",
+    "model": "X3",
+    "nr_inmatriculare": "HR-126-ZIU",
+    "vin": "3VN6H3NS2WVD15076",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1092,
+    "marca": "Buick",
+    "model": "Cascada",
+    "nr_inmatriculare": "VL-860-RPC",
+    "vin": "8EMYNR5D8BZTC3658",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1096,
+    "marca": "Audi",
+    "model": "Q5",
+    "nr_inmatriculare": "IS-89-EQV",
+    "vin": "VA54WPTC7USAC5371",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1099,
+    "marca": "Alfa Romeo",
+    "model": "Stelvio",
+    "nr_inmatriculare": "TM-808-JWV",
+    "vin": "BDXDFSRG27M3A7020",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1108,
+    "marca": "Buick",
+    "model": "Encore",
+    "nr_inmatriculare": "SV-564-DGY",
+    "vin": "LVXASKK05FGSB1050",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1109,
+    "marca": "Lamborghini",
+    "model": "Urus",
+    "nr_inmatriculare": "PH-841-UMC",
+    "vin": "0FENPK8E2R70E2919",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1110,
+    "marca": "Subaru",
+    "model": "Outback",
+    "nr_inmatriculare": "CL-084-YGI",
+    "vin": "VSAY6P0A75C893876",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1112,
+    "marca": "Alfa Romeo",
+    "model": "Stelvio",
+    "nr_inmatriculare": "VN-24-OQG",
+    "vin": "NM1KUMPY1DY602518",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1115,
+    "marca": "Jeep",
+    "model": "Grand Cherokee",
+    "nr_inmatriculare": "HR-517-ENM",
+    "vin": "FRB5ESG31T8GZ4982",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1116,
+    "marca": "Ferrari",
+    "model": "F8 Tributo",
+    "nr_inmatriculare": "VS-66-LMB",
+    "vin": "WT3B4AZ6XJ8XW8976",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1117,
+    "marca": "Chrysler",
+    "model": "300",
+    "nr_inmatriculare": "VS-315-GZU",
+    "vin": "9MZFCZDM7PD296025",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1119,
+    "marca": "Ford",
+    "model": "Fiesta",
+    "nr_inmatriculare": "BH-45-WPC",
+    "vin": "LU29DLV84F2795532",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1125,
+    "marca": "Renault",
+    "model": "Austral",
+    "nr_inmatriculare": "BN-161-LXQ",
+    "vin": "RMXCM9SC26DSM3394",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1131,
+    "marca": "Hyundai",
+    "model": "Santa Fe",
+    "nr_inmatriculare": "IS-16-OYL",
+    "vin": "AWEZ06LG7MMUU4434",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1133,
+    "marca": "Subaru",
+    "model": "Outback",
+    "nr_inmatriculare": "IS-312-SNH",
+    "vin": "RSBKTU6460MJC3086",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1136,
+    "marca": "Audi",
+    "model": "A3",
+    "nr_inmatriculare": "IL-61-URU",
+    "vin": "77Z4EG2L2GH2R4132",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1142,
+    "marca": "Chrysler",
+    "model": "Concorde",
+    "nr_inmatriculare": "SV-97-JBP",
+    "vin": "AXJ64ZWG3M1UZ5519",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1146,
+    "marca": "Mercedes-Benz",
+    "model": "E-Class",
+    "nr_inmatriculare": "CT-837-BDJ",
+    "vin": "Z0TTSP6U4D1884998",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1148,
+    "marca": "GMC",
+    "model": "Savana",
+    "nr_inmatriculare": "AR-065-LSM",
+    "vin": "L31EGRS44GYJB9197",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1152,
+    "marca": "Renault",
+    "model": "Clio",
+    "nr_inmatriculare": "MH-117-TAB",
+    "vin": "TYVYW9DZ7J4LE2936",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1154,
+    "marca": "Skoda",
+    "model": "Kodiaq",
+    "nr_inmatriculare": "CS-696-SIG",
+    "vin": "SDRVRDJE16N5L7833",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1161,
+    "marca": "Chevrolet",
+    "model": "Malibu",
+    "nr_inmatriculare": "AG-229-ZTK",
+    "vin": "8EMDDEER042T69054",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1162,
+    "marca": "Renault",
+    "model": "Austral",
+    "nr_inmatriculare": "GJ-732-DER",
+    "vin": "9UXX0S978XWJ12134",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1165,
+    "marca": "Skoda",
+    "model": "Superb",
+    "nr_inmatriculare": "BR-40-QDW",
+    "vin": "2Z4F5TFG1AFAV0839",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1169,
+    "marca": "Mercedes-Benz",
+    "model": "E-Class",
+    "nr_inmatriculare": "AB-15-NQQ",
+    "vin": "G8A1CS795RUTU3767",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1172,
+    "marca": "Chevrolet",
+    "model": "Impala",
+    "nr_inmatriculare": "CJ-084-UTS",
+    "vin": "XTTV6T8XXJ8E10934",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1173,
+    "marca": "Alfa Romeo",
+    "model": "Stelvio",
+    "nr_inmatriculare": "MS-26-TXE",
+    "vin": "HRWBS4V93K4B17927",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1176,
+    "marca": "Lamborghini",
+    "model": "Urus",
+    "nr_inmatriculare": "SJ-33-ETT",
+    "vin": "GRBMEU8W7BX862510",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1183,
+    "marca": "Fiat",
+    "model": "Panda",
+    "nr_inmatriculare": "TR-886-RTD",
+    "vin": "L2FW0N4X7V8YR9911",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1185,
+    "marca": "Jeep",
+    "model": "Cherokee",
+    "nr_inmatriculare": "VS-53-SEA",
+    "vin": "NZATYULKXXKT86457",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1187,
+    "marca": "Jeep",
+    "model": "Grand Cherokee",
+    "nr_inmatriculare": "GL-29-YLL",
+    "vin": "5RF9NETC63E8U0854",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1191,
+    "marca": "Peugeot",
+    "model": "3008",
+    "nr_inmatriculare": "BT-320-HTJ",
+    "vin": "HLAY1THC775HG0068",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1198,
+    "marca": "Lamborghini",
+    "model": "Huracan",
+    "nr_inmatriculare": "AG-237-EYD",
+    "vin": "ML89B7Y901C090681",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1205,
+    "marca": "Volvo",
+    "model": "XC60",
+    "nr_inmatriculare": "GL-58-KTX",
+    "vin": "JP6NDS140T1HG7077",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1206,
+    "marca": "Nissan",
+    "model": "Juke",
+    "nr_inmatriculare": "PH-900-DSJ",
+    "vin": "RNTX4P38XFFNX0120",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1207,
+    "marca": "Lamborghini",
+    "model": "Huracan",
+    "nr_inmatriculare": "HD-62-CNX",
+    "vin": "NGXBAW8N6ACB46194",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1208,
+    "marca": "Renault",
+    "model": "Clio",
+    "nr_inmatriculare": "DB-628-MKA",
+    "vin": "0TM9CVCW5JZ1J2128",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1211,
+    "marca": "Renault",
+    "model": "Austral",
+    "nr_inmatriculare": "SJ-555-SND",
+    "vin": "48MFYACD5BUHY6249",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1212,
+    "marca": "Alfa Romeo",
+    "model": "MiTo",
+    "nr_inmatriculare": "AG-23-OQC",
+    "vin": "GS3LWJMF4LPE55866",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1221,
+    "marca": "Ford",
+    "model": "Fiesta",
+    "nr_inmatriculare": "VL-393-IWZ",
+    "vin": "0BU133CK5XRJJ3235",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1224,
+    "marca": "Ferrari",
+    "model": "Roma",
+    "nr_inmatriculare": "B-400-MGK",
+    "vin": "ECEUHKTD405379922",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1227,
+    "marca": "Tesla",
+    "model": "Model 3",
+    "nr_inmatriculare": "TL-985-QCY",
+    "vin": "0BZWNETU2KAZD6604",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1228,
+    "marca": "Toyota",
+    "model": "Highlander",
+    "nr_inmatriculare": "GR-35-TUK",
+    "vin": "4KP3BBMP2UCYP4489",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1229,
+    "marca": "Kia",
+    "model": "Rio",
+    "nr_inmatriculare": "TR-17-BID",
+    "vin": "18TJCP7Z59L7X3313",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1230,
+    "marca": "Chrysler",
+    "model": "Concorde",
+    "nr_inmatriculare": "SJ-85-YDC",
+    "vin": "RZUA1TUT3B4M61893",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1233,
+    "marca": "Toyota",
+    "model": "Highlander",
+    "nr_inmatriculare": "BV-764-FCB",
+    "vin": "DRAUWWMV36JXP4526",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1234,
+    "marca": "Peugeot",
+    "model": "508",
+    "nr_inmatriculare": "MH-50-GKH",
+    "vin": "010C1V4A7TDW10017",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1236,
+    "marca": "Honda",
+    "model": "HR-V",
+    "nr_inmatriculare": "IS-786-TJB",
+    "vin": "LG1NEWEV5080B5814",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1237,
+    "marca": "Nissan",
+    "model": "Juke",
+    "nr_inmatriculare": "BC-754-YUD",
+    "vin": "KYBW5CZWXCTDZ2108",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1249,
+    "marca": "Seat",
+    "model": "Ateca",
+    "nr_inmatriculare": "AR-13-SOU",
+    "vin": "C9NZWW8J0M77D7053",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1257,
+    "marca": "Toyota",
+    "model": "Yaris",
+    "nr_inmatriculare": "HR-07-DJO",
+    "vin": "9HGGEW7798EG69619",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1262,
+    "marca": "Kia",
+    "model": "Ceed",
+    "nr_inmatriculare": "BT-52-SOW",
+    "vin": "86TC6YLD5R2KU7464",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1264,
+    "marca": "Honda",
+    "model": "Civic",
+    "nr_inmatriculare": "IF-08-YSD",
+    "vin": "Z7AEXUMX0FMN01272",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1269,
+    "marca": "Kia",
+    "model": "Sportage",
+    "nr_inmatriculare": "AB-648-EVF",
+    "vin": "D29FY69V8XM2L5100",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1271,
+    "marca": "Alfa Romeo",
+    "model": "MiTo",
+    "nr_inmatriculare": "HD-65-HKT",
+    "vin": "LR93Y73Z74T530804",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1276,
+    "marca": "Fiat",
+    "model": "Panda",
+    "nr_inmatriculare": "SJ-99-UNS",
+    "vin": "F897PNVL1T9MT6510",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1280,
+    "marca": "Lamborghini",
+    "model": "Gallardo",
+    "nr_inmatriculare": "SJ-233-TQY",
+    "vin": "7NE7ZTHR3TRLB7645",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1282,
+    "marca": "Ferrari",
+    "model": "Portofino",
+    "nr_inmatriculare": "CS-390-JKX",
+    "vin": "FRNCBHX54BHWL2821",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1300,
+    "marca": "Maserati",
+    "model": "Ghibli",
+    "nr_inmatriculare": "BT-913-AUJ",
+    "vin": "2A4JY3BS4NJNU8909",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1301,
+    "marca": "Buick",
+    "model": "Cascada",
+    "nr_inmatriculare": "HR-79-SLG",
+    "vin": "U99RR9176VP7B0361",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1302,
+    "marca": "Maserati",
+    "model": "MC20",
+    "nr_inmatriculare": "CL-37-ZDL",
+    "vin": "DW5A6ZHB1M5E92615",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1307,
+    "marca": "Mazda",
+    "model": "CX-5",
+    "nr_inmatriculare": "SJ-32-UMO",
+    "vin": "KDHMKLFJ7EY9Y1901",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1309,
+    "marca": "Lamborghini",
+    "model": "Aventador",
+    "nr_inmatriculare": "BR-169-FJM",
+    "vin": "B8BHC1Z34MUDG0965",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1313,
+    "marca": "Chrysler",
+    "model": "200",
+    "nr_inmatriculare": "VS-370-GEV",
+    "vin": "CZJGE02D1BJKW8121",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1314,
+    "marca": "Subaru",
+    "model": "XV",
+    "nr_inmatriculare": "CT-15-ZVM",
+    "vin": "L72AGBGK3P7V22439",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1326,
+    "marca": "Ford",
+    "model": "Focus",
+    "nr_inmatriculare": "AB-460-PAW",
+    "vin": "E5A3AJ4U606G39279",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1327,
+    "marca": "Skoda",
+    "model": "Karoq",
+    "nr_inmatriculare": "CL-86-IMQ",
+    "vin": "CKRW7LTS19AFN6036",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1332,
+    "marca": "Audi",
+    "model": "Q5",
+    "nr_inmatriculare": "DJ-887-GIX",
+    "vin": "WBB91TFA5MZEC6183",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1341,
+    "marca": "Mercedes-Benz",
+    "model": "C-Class",
+    "nr_inmatriculare": "SM-974-PRY",
+    "vin": "F6LZ0UGU7VKLV2012",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1342,
+    "marca": "Alfa Romeo",
+    "model": "Stelvio",
+    "nr_inmatriculare": "CS-744-YII",
+    "vin": "RH8VSFVY646E56316",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1347,
+    "marca": "Subaru",
+    "model": "Forester",
+    "nr_inmatriculare": "VL-92-YNL",
+    "vin": "CUWZX8150FY8M8545",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1349,
+    "marca": "Honda",
+    "model": "CR-V",
+    "nr_inmatriculare": "B-168-CMK",
+    "vin": "3T0V8KZA6DEE22961",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1350,
+    "marca": "Nissan",
+    "model": "Qashqai",
+    "nr_inmatriculare": "HR-594-ZXO",
+    "vin": "UNU1ACNH00FPK0854",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1361,
+    "marca": "Chrysler",
+    "model": "Concorde",
+    "nr_inmatriculare": "BV-520-FKK",
+    "vin": "2ER8XAT51ST8W9844",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1363,
+    "marca": "Alfa Romeo",
+    "model": "Stelvio",
+    "nr_inmatriculare": "BT-32-GYW",
+    "vin": "47DPBJYC4PELM0840",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1367,
+    "marca": "Mercedes-Benz",
+    "model": "C-Class",
+    "nr_inmatriculare": "AB-80-RCA",
+    "vin": "GB5BMEV660JRV3593",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1368,
+    "marca": "Buick",
+    "model": "Regal",
+    "nr_inmatriculare": "AR-100-ZUW",
+    "vin": "2C2NE4XK6TSFY8975",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1369,
+    "marca": "Maserati",
+    "model": "Ghibli",
+    "nr_inmatriculare": "GL-38-TQZ",
+    "vin": "W5AX26EB8V8DJ3126",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1377,
+    "marca": "GMC",
+    "model": "Canyon",
+    "nr_inmatriculare": "HD-568-AVU",
+    "vin": "M56LE45366TEL9198",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1380,
+    "marca": "Buick",
+    "model": "Encore",
+    "nr_inmatriculare": "HD-493-EUO",
+    "vin": "KW50VR1P8ZH7R0744",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1390,
+    "marca": "Hyundai",
+    "model": "Sonata",
+    "nr_inmatriculare": "SB-402-BUK",
+    "vin": "B95TYF672F1S33322",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1394,
+    "marca": "Subaru",
+    "model": "Impreza",
+    "nr_inmatriculare": "DJ-80-WFE",
+    "vin": "M4B11EMW3Z5LB5233",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1395,
+    "marca": "Dodge",
+    "model": "Journey",
+    "nr_inmatriculare": "MM-486-EOT",
+    "vin": "P8ADD9ND8603J7287",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1400,
+    "marca": "Toyota",
+    "model": "RAV4",
+    "nr_inmatriculare": "PH-97-PCB",
+    "vin": "9F2CDWAY666XV7518",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1407,
+    "marca": "Mazda",
+    "model": "CX-9",
+    "nr_inmatriculare": "PH-35-BJK",
+    "vin": "RVZNPNWB2V1VN8166",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1408,
+    "marca": "Skoda",
+    "model": "Karoq",
+    "nr_inmatriculare": "VS-468-IZW",
+    "vin": "1TDPSZ5GXNZ6W2674",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1418,
+    "marca": "Ford",
+    "model": "Mustang",
+    "nr_inmatriculare": "SJ-22-BUI",
+    "vin": "8TWBY2UH704707889",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1422,
+    "marca": "Mazda",
+    "model": "CX-9",
+    "nr_inmatriculare": "IL-89-IME",
+    "vin": "5UNDVBPX7RXAU3654",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1428,
+    "marca": "Fiat",
+    "model": "Panda",
+    "nr_inmatriculare": "GR-14-OHZ",
+    "vin": "4YA1S4ZE9HV2D6462",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1430,
+    "marca": "Hyundai",
+    "model": "Sonata",
+    "nr_inmatriculare": "SV-170-GMZ",
+    "vin": "NBMPHP4F92V835587",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1437,
+    "marca": "Tesla",
+    "model": "Cybertruck",
+    "nr_inmatriculare": "CS-893-XPT",
+    "vin": "757X64ZY156DA0779",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1440,
+    "marca": "Skoda",
+    "model": "Scala",
+    "nr_inmatriculare": "CL-776-FAB",
+    "vin": "XLF0UTNFXA37D6494",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1441,
+    "marca": "Fiat",
+    "model": "Panda",
+    "nr_inmatriculare": "IF-74-NQC",
+    "vin": "SXDL2N2G1EU3F2116",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1447,
+    "marca": "Chrysler",
+    "model": "Voyager",
+    "nr_inmatriculare": "VN-70-JYV",
+    "vin": "XF396PAY65E9F5940",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1451,
+    "marca": "Renault",
+    "model": "Captur",
+    "nr_inmatriculare": "CL-57-LAF",
+    "vin": "EAKMMPL84FYX58980",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1469,
+    "marca": "Buick",
+    "model": "Enclave",
+    "nr_inmatriculare": "DB-357-VJI",
+    "vin": "5R2DZXFM47G2U7830",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1470,
+    "marca": "Mazda",
+    "model": "CX-30",
+    "nr_inmatriculare": "NT-471-VIU",
+    "vin": "KW2KWY23X65BA2716",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1477,
+    "marca": "Peugeot",
+    "model": "2008",
+    "nr_inmatriculare": "MS-13-YJL",
+    "vin": "116FNLK889DPB5014",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1479,
+    "marca": "Honda",
+    "model": "CR-V",
+    "nr_inmatriculare": "CL-01-AVW",
+    "vin": "49SSRVK50FU322278",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1488,
+    "marca": "BMW",
+    "model": "i4",
+    "nr_inmatriculare": "MS-36-HRH",
+    "vin": "NRKATR91X4ZVG4489",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1494,
+    "marca": "Nissan",
+    "model": "X-Trail",
+    "nr_inmatriculare": "MM-57-FLG",
+    "vin": "6LHZ2WNJ69GPJ6218",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1501,
+    "marca": "Lamborghini",
+    "model": "Gallardo",
+    "nr_inmatriculare": "BZ-841-VBP",
+    "vin": "36GP173G69FSN0978",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1503,
+    "marca": "Subaru",
+    "model": "Impreza",
+    "nr_inmatriculare": "CS-85-HWN",
+    "vin": "VY96XYKJ3GM018412",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1506,
+    "marca": "Subaru",
+    "model": "Outback",
+    "nr_inmatriculare": "HR-43-DBQ",
+    "vin": "9U3YLVFB1B4SN9410",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1507,
+    "marca": "Volkswagen",
+    "model": "Touareg",
+    "nr_inmatriculare": "AR-717-PLU",
+    "vin": "2F8EYLNK17CHW3054",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1508,
+    "marca": "Tesla",
+    "model": "Model X",
+    "nr_inmatriculare": "BC-889-UEN",
+    "vin": "0EN89N9A21BEJ9226",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1509,
+    "marca": "Ford",
+    "model": "Mondeo",
+    "nr_inmatriculare": "MM-41-SMO",
+    "vin": "L065B48V0RXT01415",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1510,
+    "marca": "Ferrari",
+    "model": "812 Superfast",
+    "nr_inmatriculare": "OT-709-DRJ",
+    "vin": "GMHNANM3XAJEC1558",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1513,
+    "marca": "Renault",
+    "model": "Clio",
+    "nr_inmatriculare": "BZ-860-NFH",
+    "vin": "X10PLWM320EMH2298",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1515,
+    "marca": "Hyundai",
+    "model": "Santa Fe",
+    "nr_inmatriculare": "B-911-KOH",
+    "vin": "W6L921PM7H0RC5673",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1516,
+    "marca": "Lamborghini",
+    "model": "Gallardo",
+    "nr_inmatriculare": "SV-65-XSG",
+    "vin": "HTS7HAHX2YB1T5172",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1528,
+    "marca": "Mazda",
+    "model": "Mazda3",
+    "nr_inmatriculare": "GJ-455-VIC",
+    "vin": "AAL3Y67X6BJ100238",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1530,
+    "marca": "Nissan",
+    "model": "Qashqai",
+    "nr_inmatriculare": "BT-291-HRR",
+    "vin": "LAJKN6UJ66HWE2319",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1531,
+    "marca": "Kia",
+    "model": "Ceed",
+    "nr_inmatriculare": "CL-130-IAA",
+    "vin": "AMHYPG937NV9M8556",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1532,
+    "marca": "Fiat",
+    "model": "Panda",
+    "nr_inmatriculare": "GR-46-KCB",
+    "vin": "XSNPCE38X3PJB6131",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1537,
+    "marca": "Chevrolet",
+    "model": "Equinox",
+    "nr_inmatriculare": "TM-16-IWQ",
+    "vin": "6JDLE3C25UAAD1785",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1543,
+    "marca": "Fiat",
+    "model": "Tipo",
+    "nr_inmatriculare": "SJ-30-PAX",
+    "vin": "RDMD2FGF8ZZ3R3820",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1544,
+    "marca": "Nissan",
+    "model": "Juke",
+    "nr_inmatriculare": "BR-53-KUE",
+    "vin": "FS6Y1NJ993H5B6683",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1550,
+    "marca": "Nissan",
+    "model": "Micra",
+    "nr_inmatriculare": "TR-082-OPY",
+    "vin": "R7HJJB1TXMK1V4257",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1552,
+    "marca": "Audi",
+    "model": "A4",
+    "nr_inmatriculare": "CJ-052-CLP",
+    "vin": "960W6JSS0V1LL8475",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1553,
+    "marca": "Ferrari",
+    "model": "F8 Tributo",
+    "nr_inmatriculare": "IS-487-PKK",
+    "vin": "ANU78NR819RTC2279",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1560,
+    "marca": "Buick",
+    "model": "LaCrosse",
+    "nr_inmatriculare": "MS-364-BXI",
+    "vin": "W01GP1K95VM805382",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1562,
+    "marca": "Ford",
+    "model": "Explorer",
+    "nr_inmatriculare": "GL-784-GLP",
+    "vin": "WN483GV09JZ2H0051",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1567,
+    "marca": "Volkswagen",
+    "model": "Golf",
+    "nr_inmatriculare": "IL-294-MAO",
+    "vin": "63GFZZW45KGJW5623",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1570,
+    "marca": "Fiat",
+    "model": "500",
+    "nr_inmatriculare": "MS-799-TKW",
+    "vin": "JF2CVM5Y6E36S6955",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1571,
+    "marca": "Honda",
+    "model": "Civic",
+    "nr_inmatriculare": "NT-758-OUW",
+    "vin": "G6BJWCCAX1GC33130",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1574,
+    "marca": "Nissan",
+    "model": "X-Trail",
+    "nr_inmatriculare": "TR-94-STE",
+    "vin": "XUSN5UFY5PHU45396",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1575,
+    "marca": "Ford",
+    "model": "Explorer",
+    "nr_inmatriculare": "BH-14-GKX",
+    "vin": "EUL8HBY1XHMR64131",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1586,
+    "marca": "Dodge",
+    "model": "Durango",
+    "nr_inmatriculare": "VS-158-OFW",
+    "vin": "F4EXZ2K3293K87006",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1587,
+    "marca": "Volvo",
+    "model": "XC60",
+    "nr_inmatriculare": "SJ-367-TKF",
+    "vin": "VXP4SSK7XKYN78930",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1592,
+    "marca": "BMW",
+    "model": "X5",
+    "nr_inmatriculare": "AR-433-BDA",
+    "vin": "N8JX67NA7YSHB8123",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1594,
+    "marca": "Seat",
+    "model": "Tarraco",
+    "nr_inmatriculare": "MM-82-NZD",
+    "vin": "Z4EJKJ911B4D76284",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1599,
+    "marca": "Chevrolet",
+    "model": "Malibu",
+    "nr_inmatriculare": "PH-602-ICC",
+    "vin": "XRAB3LAF4NL243204",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1600,
+    "marca": "Seat",
+    "model": "Ateca",
+    "nr_inmatriculare": "IF-241-YWA",
+    "vin": "LZCDXMC47FDBJ3459",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1604,
+    "marca": "Volvo",
+    "model": "XC60",
+    "nr_inmatriculare": "CL-18-HFQ",
+    "vin": "BWYRUFRF0U1TE2356",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1606,
+    "marca": "Volvo",
+    "model": "XC90",
+    "nr_inmatriculare": "OT-507-CFV",
+    "vin": "E2PB5H0P98FZX0632",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1616,
+    "marca": "Ferrari",
+    "model": "Portofino",
+    "nr_inmatriculare": "VN-051-VXY",
+    "vin": "R5G69N276PXVM3761",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1620,
+    "marca": "Nissan",
+    "model": "Micra",
+    "nr_inmatriculare": "AG-40-YPK",
+    "vin": "EFALNFMD3K75B1821",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1623,
+    "marca": "Audi",
+    "model": "A4",
+    "nr_inmatriculare": "PH-47-KLI",
+    "vin": "18NP79JM917ZS2852",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1630,
+    "marca": "Renault",
+    "model": "Talisman",
+    "nr_inmatriculare": "BT-151-YSA",
+    "vin": "0KUVH5EJ9E5ST7242",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1631,
+    "marca": "Maserati",
+    "model": "Ghibli",
+    "nr_inmatriculare": "CS-30-SQR",
+    "vin": "SS0V1C116MG5R0299",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1643,
+    "marca": "GMC",
+    "model": "Savana",
+    "nr_inmatriculare": "BH-81-IEK",
+    "vin": "UH43J4ES9K9XZ3211",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1645,
+    "marca": "Subaru",
+    "model": "XV",
+    "nr_inmatriculare": "CS-081-ZUN",
+    "vin": "X60EXHSY3S5HV5176",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1647,
+    "marca": "Volvo",
+    "model": "XC90",
+    "nr_inmatriculare": "VL-273-MVU",
+    "vin": "HNTV4DT82K49B5704",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1650,
+    "marca": "Hyundai",
+    "model": "Elantra",
+    "nr_inmatriculare": "NT-67-EUE",
+    "vin": "DUZ7K93E3NWB85555",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1655,
+    "marca": "Renault",
+    "model": "Captur",
+    "nr_inmatriculare": "VN-646-VQQ",
+    "vin": "3YD8WAJ5X1Y636514",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1661,
+    "marca": "Volvo",
+    "model": "XC90",
+    "nr_inmatriculare": "VL-67-MFW",
+    "vin": "MLYH61PB1AR5W4944",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1673,
+    "marca": "Audi",
+    "model": "A6",
+    "nr_inmatriculare": "SB-296-QET",
+    "vin": "1FLWL9C46PGAD0699",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1680,
+    "marca": "Kia",
+    "model": "Rio",
+    "nr_inmatriculare": "DJ-47-WAL",
+    "vin": "YU3J2NN16XNSR4867",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1684,
+    "marca": "GMC",
+    "model": "Yukon",
+    "nr_inmatriculare": "DJ-334-MWC",
+    "vin": "5JMGBH2607Z576351",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1696,
+    "marca": "Chevrolet",
+    "model": "Malibu",
+    "nr_inmatriculare": "GJ-933-NUC",
+    "vin": "NXTV7JXN1VFY70118",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1698,
+    "marca": "Lamborghini",
+    "model": "Huracan",
+    "nr_inmatriculare": "TL-585-BAO",
+    "vin": "5HRU1U3AXSCW22201",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1699,
+    "marca": "Skoda",
+    "model": "Karoq",
+    "nr_inmatriculare": "BC-099-PXS",
+    "vin": "E0JK2F2093J4W7982",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1700,
+    "marca": "Fiat",
+    "model": "Tipo",
+    "nr_inmatriculare": "MH-552-OPI",
+    "vin": "AYP110HA4XF5L3377",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1706,
+    "marca": "Peugeot",
+    "model": "308",
+    "nr_inmatriculare": "BH-07-VKC",
+    "vin": "72WXZPBFXB1ZM6037",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1707,
+    "marca": "Nissan",
+    "model": "Juke",
+    "nr_inmatriculare": "OT-64-VBM",
+    "vin": "0E2Z2T6ZXSEWG4577",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1709,
+    "marca": "Toyota",
+    "model": "RAV4",
+    "nr_inmatriculare": "BT-73-EED",
+    "vin": "2EPS0VEU3ZF9N2361",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1712,
+    "marca": "Mercedes-Benz",
+    "model": "C-Class",
+    "nr_inmatriculare": "GR-35-NXL",
+    "vin": "BZ34XVM812JJ92312",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1715,
+    "marca": "Fiat",
+    "model": "Punto",
+    "nr_inmatriculare": "BT-805-CXU",
+    "vin": "1DLRV1PP7V5SD4344",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1716,
+    "marca": "Ferrari",
+    "model": "Portofino",
+    "nr_inmatriculare": "CT-986-HXG",
+    "vin": "VBL3B11C5XRR09437",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1730,
+    "marca": "Nissan",
+    "model": "Juke",
+    "nr_inmatriculare": "CS-477-VSY",
+    "vin": "V9B4BZ1B9A07B4936",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1739,
+    "marca": "Peugeot",
+    "model": "3008",
+    "nr_inmatriculare": "BZ-83-JZW",
+    "vin": "GW40T3E36R8JE4485",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1741,
+    "marca": "Jeep",
+    "model": "Renegade",
+    "nr_inmatriculare": "MS-67-PWD",
+    "vin": "VS6DKLJV3DU4E1538",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1747,
+    "marca": "Volkswagen",
+    "model": "Touareg",
+    "nr_inmatriculare": "DB-66-ZKM",
+    "vin": "KWESG2KB8C45V5384",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1750,
+    "marca": "Lamborghini",
+    "model": "Revuelto",
+    "nr_inmatriculare": "CV-57-SDL",
+    "vin": "LWAFJ49S2UGU95084",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1752,
+    "marca": "Mercedes-Benz",
+    "model": "GLE",
+    "nr_inmatriculare": "AB-82-RFR",
+    "vin": "FKRMTRCG7EVE00005",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1786,
+    "marca": "Volvo",
+    "model": "XC60",
+    "nr_inmatriculare": "CJ-12-KFM",
+    "vin": "MN9BL7HL58JGK1829",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1795,
+    "marca": "BMW",
+    "model": "Seria 5",
+    "nr_inmatriculare": "AB-33-KAS",
+    "vin": "5DFZANAY1MLJ91926",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1796,
+    "marca": "Renault",
+    "model": "Megane",
+    "nr_inmatriculare": "TR-565-CBB",
+    "vin": "PVS9EC9K0VPVH2352",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1801,
+    "marca": "Mazda",
+    "model": "CX-9",
+    "nr_inmatriculare": "MS-17-WLV",
+    "vin": "JV67FV2K3HA1R9718",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1812,
+    "marca": "Ford",
+    "model": "Fiesta",
+    "nr_inmatriculare": "MH-73-LRB",
+    "vin": "54FF22KF8F87U5254",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1820,
+    "marca": "Mazda",
+    "model": "CX-9",
+    "nr_inmatriculare": "TL-100-KGG",
+    "vin": "PJUXTXTF9SSMG3358",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1822,
+    "marca": "BMW",
+    "model": "Seria 5",
+    "nr_inmatriculare": "BH-13-JKX",
+    "vin": "KW1F9UKU0B61W2105",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1828,
+    "marca": "Chrysler",
+    "model": "300",
+    "nr_inmatriculare": "HD-307-WID",
+    "vin": "7F0K32EP598ZT7580",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1831,
+    "marca": "Mazda",
+    "model": "CX-30",
+    "nr_inmatriculare": "VS-474-WXH",
+    "vin": "1P3P1NE72Y9B81174",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1834,
+    "marca": "Renault",
+    "model": "Austral",
+    "nr_inmatriculare": "BV-516-FYV",
+    "vin": "UFLRJ5V59JSDZ9498",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1838,
+    "marca": "Ford",
+    "model": "Focus",
+    "nr_inmatriculare": "CV-26-FBG",
+    "vin": "C7K0D9P28GDS08185",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1839,
+    "marca": "Skoda",
+    "model": "Superb",
+    "nr_inmatriculare": "BZ-53-XMM",
+    "vin": "360B5XKY6XZ3J1636",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1842,
+    "marca": "Renault",
+    "model": "Austral",
+    "nr_inmatriculare": "B-624-LZB",
+    "vin": "DM4NK88Y876PF3627",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1845,
+    "marca": "Mercedes-Benz",
+    "model": "E-Class",
+    "nr_inmatriculare": "SM-682-WOG",
+    "vin": "P3RG4MVG63CLJ1099",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1848,
+    "marca": "Honda",
+    "model": "HR-V",
+    "nr_inmatriculare": "HR-30-MJD",
+    "vin": "36MEWREW0VS4L4014",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1851,
+    "marca": "Hyundai",
+    "model": "Elantra",
+    "nr_inmatriculare": "TM-883-MWX",
+    "vin": "YYNN0P7512WER9542",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1852,
+    "marca": "BMW",
+    "model": "i4",
+    "nr_inmatriculare": "MS-82-ARU",
+    "vin": "3ZX415YW43Z416341",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1859,
+    "marca": "Chrysler",
+    "model": "200",
+    "nr_inmatriculare": "AR-98-AJT",
+    "vin": "NX0YS9VLXKLMK3616",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1871,
+    "marca": "Peugeot",
+    "model": "2008",
+    "nr_inmatriculare": "MS-99-QJL",
+    "vin": "M7F5A1JK2HPWV5757",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1873,
+    "marca": "Lamborghini",
+    "model": "Aventador",
+    "nr_inmatriculare": "HR-77-TOO",
+    "vin": "MGP5MTJ51FFAA2797",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1874,
+    "marca": "Nissan",
+    "model": "Qashqai",
+    "nr_inmatriculare": "TL-62-TBS",
+    "vin": "PHK1YC6E72CVX2626",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1876,
+    "marca": "Dodge",
+    "model": "Challenger",
+    "nr_inmatriculare": "BH-459-NHQ",
+    "vin": "XVR48F6A744SS9073",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1883,
+    "marca": "Volvo",
+    "model": "S60",
+    "nr_inmatriculare": "TM-19-JAN",
+    "vin": "S2ZM0DLX5JUE71545",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1889,
+    "marca": "Toyota",
+    "model": "RAV4",
+    "nr_inmatriculare": "IL-150-DEH",
+    "vin": "ZMW5WZ102SN511332",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1899,
+    "marca": "Aston Martin",
+    "model": "DB11",
+    "nr_inmatriculare": "MH-565-UBL",
+    "vin": "7XCN197P1FYBG9024",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1900,
+    "marca": "Buick",
+    "model": "Encore",
+    "nr_inmatriculare": "IS-256-PHZ",
+    "vin": "BXLP86HB54SHP4123",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1901,
+    "marca": "Peugeot",
+    "model": "508",
+    "nr_inmatriculare": "GL-02-RZA",
+    "vin": "HY1V4NBB56LPP1635",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1904,
+    "marca": "Mercedes-Benz",
+    "model": "C-Class",
+    "nr_inmatriculare": "DB-72-BKI",
+    "vin": "6MRNJL2Y8BN8S1375",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1906,
+    "marca": "Nissan",
+    "model": "Qashqai",
+    "nr_inmatriculare": "SM-905-HZY",
+    "vin": "1FJ65ESA73Y7F1134",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1907,
+    "marca": "Seat",
+    "model": "Tarraco",
+    "nr_inmatriculare": "AR-264-PUY",
+    "vin": "0N2APF7K0KF9P3877",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1908,
+    "marca": "Dodge",
+    "model": "Journey",
+    "nr_inmatriculare": "HR-091-YDJ",
+    "vin": "XP00DMA6562YA8250",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1910,
+    "marca": "Toyota",
+    "model": "Camry",
+    "nr_inmatriculare": "CL-39-BRH",
+    "vin": "6UWVSZ5L9NANN3042",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1914,
+    "marca": "Kia",
+    "model": "Ceed",
+    "nr_inmatriculare": "TR-57-PFW",
+    "vin": "2WNFMXNP2JKVS6258",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1918,
+    "marca": "Ferrari",
+    "model": "F8 Tributo",
+    "nr_inmatriculare": "VS-317-GPF",
+    "vin": "9EGAN7S47S8BB8395",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1923,
+    "marca": "GMC",
+    "model": "Acadia",
+    "nr_inmatriculare": "MH-24-USB",
+    "vin": "TTVYECFV5YYW98451",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1926,
+    "marca": "Aston Martin",
+    "model": "DB11",
+    "nr_inmatriculare": "CL-55-CCD",
+    "vin": "MJKT62MHXEC8Y0266",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1928,
+    "marca": "Toyota",
+    "model": "Camry",
+    "nr_inmatriculare": "OT-19-WRS",
+    "vin": "BY3BFLMC61RG45374",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1931,
+    "marca": "Lamborghini",
+    "model": "Urus",
+    "nr_inmatriculare": "SM-39-BTJ",
+    "vin": "PYK3736Y2YL9S4123",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1932,
+    "marca": "Jeep",
+    "model": "Compass",
+    "nr_inmatriculare": "MS-65-WML",
+    "vin": "60USUVU64A28K4995",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1934,
+    "marca": "Dodge",
+    "model": "Durango",
+    "nr_inmatriculare": "VN-720-VRM",
+    "vin": "HYP6LRL452A4W8722",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1942,
+    "marca": "Volvo",
+    "model": "V60",
+    "nr_inmatriculare": "GJ-332-DSA",
+    "vin": "805DUTRA6LDEW3872",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1947,
+    "marca": "Renault",
+    "model": "Talisman",
+    "nr_inmatriculare": "VN-468-WSI",
+    "vin": "5KKY182723RG73026",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1951,
+    "marca": "Hyundai",
+    "model": "Santa Fe",
+    "nr_inmatriculare": "B-33-WEE",
+    "vin": "CJS3LD7D54KNK4282",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1958,
+    "marca": "Audi",
+    "model": "Q5",
+    "nr_inmatriculare": "DJ-835-WVN",
+    "vin": "GA5KECB0XP67M0089",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1968,
+    "marca": "Seat",
+    "model": "Arona",
+    "nr_inmatriculare": "BT-01-BKM",
+    "vin": "Y6TJJT6G208H05494",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1973,
+    "marca": "Ford",
+    "model": "Mondeo",
+    "nr_inmatriculare": "GJ-193-ASJ",
+    "vin": "GV6NJ1Z40ZUC73862",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1975,
+    "marca": "Tesla",
+    "model": "Model X",
+    "nr_inmatriculare": "GR-559-GKR",
+    "vin": "EAGCMDNE5CMBM4016",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1978,
+    "marca": "Dodge",
+    "model": "Challenger",
+    "nr_inmatriculare": "IS-904-IET",
+    "vin": "1U4TRAVU8PWNE5261",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1980,
+    "marca": "Volvo",
+    "model": "XC90",
+    "nr_inmatriculare": "VN-90-URB",
+    "vin": "CG7L3EUH211GA4633",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1986,
+    "marca": "Peugeot",
+    "model": "308",
+    "nr_inmatriculare": "GL-91-QHK",
+    "vin": "WMP6AKK49N8NC4201",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1993,
+    "marca": "Alfa Romeo",
+    "model": "Giulia",
+    "nr_inmatriculare": "BT-930-AXD",
+    "vin": "HFWN85PRXHNKX5977",
+    "status": "In Service"
+  },
+  {
+    "id_masina": 1999,
+    "marca": "Honda",
+    "model": "CR-V",
+    "nr_inmatriculare": "IL-368-KLP",
+    "vin": "0UR6EF6D46XBK6764",
+    "status": "In Service"
+  }
+]
