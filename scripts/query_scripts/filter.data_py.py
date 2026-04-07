@@ -70,10 +70,12 @@ for i in rows:
         "Numar_Comenzi": i[4],
     })
 
-out_path = Path("../outputs") / "Top 5 Clienti.json"
+out_path = Path("../outputs") / "Top_5_Clienti.json"
 out_path.parent.mkdir(exist_ok=True, parents=True)
 
 out_path.write_text(
     json.dumps(data, indent=2, ensure_ascii=False),
     encoding="utf-8"
 )
+
+print(f"JSON salvat cu succes în: {out_path}")
