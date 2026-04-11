@@ -19,7 +19,7 @@ CREATE TABLE IF NOT EXISTS Masini (
     fk_model INT NOT NULL,
     numar_inmatriculare VARCHAR(15) UNIQUE,
     vin VARCHAR(30) UNIQUE,
-    status VARCHAR(25) NOT NULL,
+    status ENUM('Disponibil', 'Inchiriat', 'In Service', 'Rezervat') NOT NULL,
     pret_inchiriere DECIMAL(10,2) NOT NULL,
     categorie_permis VARCHAR(5),
     isDeleted BOOLEAN DEFAULT FALSE,
@@ -54,7 +54,7 @@ CREATE TABLE IF NOT EXISTS Date_Client (
 CREATE TABLE IF NOT EXISTS Comanda (
     id_comanda INT AUTO_INCREMENT PRIMARY KEY,
     fk_user INT NOT NULL,
-    status_plata VARCHAR(100),
+    status_plata ENUM('Platita', 'In curs', 'Neplatita'),
     data_comanda DATETIME DEFAULT CURRENT_TIMESTAMP,
     isDeleted BOOLEAN DEFAULT FALSE,
     CONSTRAINT fk_comanda_user
@@ -87,7 +87,7 @@ CREATE TABLE IF NOT EXISTS Factura (
     valoare_neta DECIMAL(10,2) NOT NULL,
     valoare_tva DECIMAL(10,2) NOT NULL,
     valoare_totala DECIMAL(10,2) NOT NULL,
-    status_factura VARCHAR(25),
+    status_factura ENUM('Emisa', 'Platit', 'Neplatit', 'Anulat') NOT NULL,
     isDeleted BOOLEAN DEFAULT FALSE,
     CONSTRAINT fk_factura_comanda
         FOREIGN KEY (fk_comanda) REFERENCES Comanda(id_comanda)

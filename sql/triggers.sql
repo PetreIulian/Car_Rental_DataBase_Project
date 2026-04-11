@@ -76,7 +76,7 @@ AFTER INSERT ON Raport_Comanda
 FOR EACH ROW
 BEGIN
     UPDATE Masini
-    SET status = 'Inchiriata'
+    SET status = 'Inchiriat'
     WHERE id_masina = NEW.fk_masina;
 END;
 --TRIGGER_END--

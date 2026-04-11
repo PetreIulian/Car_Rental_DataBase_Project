@@ -19,6 +19,7 @@ def create_procedure():
         for block in procedure_block:
             cursor.execute(block)
             connection.commit()
+        print("\nProcedurile au fost create cu succes")
     except Exception as e:
         connection.rollback()
         print("Eroare la crearea procedurilor", e)

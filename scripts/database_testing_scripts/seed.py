@@ -152,7 +152,7 @@ def populate():
                 facturi_folosite.add(numar_factura)
                 break
 
-        status_factura = random.choices(['Emisa', 'Platit', 'Restant', 'Anulat'], weights=[0.1, 0.75, 0.1, 0.05])[0]
+        status_factura = random.choices(['Emisa', 'Platit', 'Neplatit', 'Anulat'], weights=[0.1, 0.75, 0.1, 0.05])[0]
 
         run_execute(
             """

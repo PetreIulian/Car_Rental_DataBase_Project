@@ -18,7 +18,7 @@ BEGIN
     START TRANSACTION;
 
     INSERT INTO Comanda (fk_user, status_plata, data_comanda)
-    VALUES (p_user_id, 'In Curs', NOW());
+    VALUES (p_user_id, 'In curs', NOW());
 
     SET v_comanda_id = LAST_INSERT_ID();
 
@@ -88,6 +88,6 @@ BEGIN
     SET v_total_net = v_zile * v_pret_zi;
 
     INSERT INTO Factura (fk_comanda, fk_client, serie, numar, valoare_neta, valoare_tva, valoare_totala, status_factura)
-    VALUES (p_comanda_id, v_client_id, p_serie_comanda, p_numar_comanda, v_total_net, v_total_net * 0.19, v_total_net * 1.19, 'Neplatita');
+    VALUES (p_comanda_id, v_client_id, p_serie_comanda, p_numar_comanda, v_total_net, v_total_net * 0.19, v_total_net * 1.19, 'Neplatit');
 END
 --END_PROCEDURE--

@@ -1,7 +1,7 @@
 from app.db import run_execute, run_select
 
 print("--- TEST TRIGGER BEFORE INSERT (Raport_Comanda) ---")
-id_masina = run_select("SELECT id_masina FROM Masini LIMIT 1;")[0][0]
+id_masina = run_select("SELECT id_masina FROM Masini WHERE status = 'Disponibil' LIMIT 1;")[0][0]
 id_user = run_select("SELECT id_user FROM Cont_Client LIMIT 1;")[0][0]
 
 run_execute("INSERT INTO Comanda (fk_user, status_plata) VALUES (%s, %s);", (id_user, 'In curs'))
