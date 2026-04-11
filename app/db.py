@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-pool_size = int(os.getenv("DB_POOL_SIZE", "20"))
+pool_size = int(os.getenv("DB_POOL_SIZE", "40"))
 
 pool = mariadb.ConnectionPool(
     host=os.getenv("DB_HOST", "127.0.0.1"),

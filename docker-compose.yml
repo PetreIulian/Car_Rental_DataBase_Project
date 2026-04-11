@@ -1,0 +1,17 @@
+services:
+  mariadb:
+    image: mariadb:11
+    container_name: rental_mariadb
+    restart: unless-stopped
+    environment:
+      MARIADB_ROOT_PASSWORD: rootpassword
+      MARIADB_DATABASE: CarRental_System
+      MARIADB_USER: PetreIulian
+      MARIADB_PASSWORD: 12345678
+    ports:
+      - "3307:3306"
+    volumes:
+      - mariadb_data:/var/lib/mysql
+
+volumes:
+  mariadb_data:
