@@ -3,7 +3,6 @@ from app.db import get_connection, run_select
 
 print("ORDER SERVICE - TESTING PROCEDURES")
 
-# 1. Get the user ID
 user_rows = run_select("SELECT id_user FROM Cont_Client WHERE username = %s;", ("dana.dinu7985",))
 if not user_rows:
     print("Error: User not found.")
@@ -11,13 +10,11 @@ if not user_rows:
 
 user_id = user_rows[0][0]
 
-# 2. Define the cars and dates
 masini = [
     {"id_masina": 6},
     {"id_masina": 9},
 ]
 
-# Defining test dates (Today and 7 days from now)
 data_predare = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 data_returnare = (datetime.now() + timedelta(days=7)).strftime('%Y-%m-%d %H:%M:%S')
 
