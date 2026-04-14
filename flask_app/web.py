@@ -18,7 +18,6 @@ CRUD_CONFIG = {
         "create_fields": ["nume_marca"],
         "update_fields": ["nume_marca"],
         "list_fields": ["id_marca", "nume_marca"],
-        "default_sort": "nume_marca ASC",
         "children": [{"table": "Model", "fk": "fk_marca"}],
     },
     "Model": {
@@ -35,7 +34,7 @@ CRUD_CONFIG = {
         "title": "Flotă Mașini",
         "create_fields": ["fk_model", "numar_inmatriculare", "vin", "status", "pret_inchiriere", "categorie_permis"],
         "update_fields": ["status", "pret_inchiriere"],
-        "list_fields": ["id_masina", "numar_inmatriculare", "status", "pret_inchiriere"],
+        "list_fields": ["id_masina", "numar_inmatriculare","vin", "status", "pret_inchiriere", "categorie_permis"],
         "choices": {"status": ["Disponibil", "Inchiriat", "In Service", "Rezervat"]},
         "fk_dropdowns": {"fk_model": ("Model", "id_model", "nume_model")},
         "children": [{"table": "Raport_Comanda", "fk": "fk_masina"}],
@@ -44,7 +43,7 @@ CRUD_CONFIG = {
         "pk": "id_user",
         "title": "Conturi Utilizatori",
         "create_fields": ["username", "password"],
-        "update_fields": ["password"],
+        "update_fields": ["username", "password"],
         "list_fields": ["id_user", "username"],
         "children": [
             {"table": "Date_Client", "fk": "fk_user"},
@@ -55,8 +54,8 @@ CRUD_CONFIG = {
         "pk": "id_client",
         "title": "Date Identitate Clienți",
         "create_fields": ["fk_user", "nume", "prenume", "numar_telefon", "adresa", "email", "permis_conducere", "cui"],
-        "update_fields": ["numar_telefon", "adresa", "email"],
-        "list_fields": ["id_client", "nume", "prenume", "email"],
+        "update_fields": ["nume", "prenume", "numar_telefon", "adresa", "email", "cui", "permis_conducere"],
+        "list_fields": ["id_client", "nume", "prenume","numar_telefon", "adresa", "email", "permis_conducere"],
         "fk_dropdowns": {"fk_user": ("Cont_Client", "id_user", "username")},
         "children": [{"table": "Factura", "fk": "fk_client"}],
     },
@@ -106,7 +105,7 @@ CRUD_CONFIG = {
         "title": "Plăți Efectuate",
         "create_fields": ["fk_factura", "data_plata", "suma_plata", "metoda_plata", "id_tranzactie_bancara"],
         "update_fields": ["id_tranzactie_bancara"],
-        "list_fields": ["id_plata", "fk_factura", "suma_plata", "data_plata", "metoda_plata"],
+        "list_fields": ["id_plata", "fk_factura", "suma_plata", "data_plata", "metoda_plata", "id_tranzactie_bancara"],
         "fk_dropdowns": {"fk_factura": ("Factura", "id_factura", "numar")},
     },
     "Raport_Predare": {
@@ -159,7 +158,7 @@ def fetch_list(table):
     pk = cfg["pk"]
     cols = cfg["list_fields"]
 
-    q = f"SELECT {', '.join(cols)} FROM {table} WHERE isDeleted = FALSE ORDER BY {cfg.get('default_sort', pk + ' DESC')};"
+    q = f"SELECT {', '.join(cols)} FROM {table} WHERE isDeleted = FALSE ORDER BY {cfg.get('default_sort', pk + ' ASC')};"
     rows = run_select(q)
     return cols, rows
 
@@ -180,7 +179,7 @@ def build_fk_options(cfg):
     for field, spec in cfg.get("fk_dropdowns", {}).items():
         parent_table, parent_pk, label_col = spec
         rows = run_select(
-            f"SELECT {parent_pk}, {label_col} FROM {parent_table} ORDER BY {parent_pk} DESC;"
+            f"SELECT {parent_pk}, {label_col} FROM {parent_table} ORDER BY {parent_pk} ASC;"
         )
         options[field] = [(str(r[0]), str(r[1])) for r in rows]
     return options
@@ -231,7 +230,6 @@ def update_record(table, rec_id, form):
 
 def delete_record_safe(table, rec_id):
     cfg = ensure_table_allowed(table)
-    # În loc de DELETE, facem UPDATE pe isDeleted
     q = f"UPDATE {table} SET isDeleted = TRUE WHERE {cfg['pk']} = %s;"
     run_execute(q, (rec_id,))
 
