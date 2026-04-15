@@ -113,7 +113,7 @@ CRUD_CONFIG = {
         "title": "Raport Predare (KM/Daune)",
         "create_fields": ["fk_raport_comanda", "numar_kilometrii", "daune"],
         "update_fields": ["daune"],
-        "list_fields": ["id_raport_predare", "fk_raport_comanda", "numar_kilometrii"],
+        "list_fields": ["id_raport_predare", "fk_raport_comanda", "numar_kilometrii", "daune"],
         "fk_dropdowns": {"fk_raport_comanda": ("Raport_Comanda", "id_raport", "id_raport")},
     },
     "Raport_Primire": {
@@ -121,7 +121,7 @@ CRUD_CONFIG = {
         "title": "Raport Primire (KM/Daune)",
         "create_fields": ["fk_raport_comanda", "numar_kilometrii", "daune"],
         "update_fields": ["daune"],
-        "list_fields": ["id_raport_primire", "fk_raport_comanda", "numar_kilometrii"],
+        "list_fields": ["id_raport_primire", "fk_raport_comanda", "numar_kilometrii", "daune"],
         "fk_dropdowns": {"fk_raport_comanda": ("Raport_Comanda", "id_raport", "id_raport")},
     },
     "Logs": {
@@ -142,14 +142,14 @@ def ensure_table_allowed(table):
 
 def has_any_user():
     try:
-        rows = run_select("SELECT id_user FROM Cont_Client LIMIT 1;")
+        rows = run_select("SELECT id_user FROM Cont_Client WHERE isDeleted = 0 LIMIT 1;")
         return bool(rows)
     except Exception:
         return False
 
 def record_exists(table, field, value):
     ensure_table_allowed(table)
-    q = f"SELECT 1 FROM {table} WHERE {field}=%s LIMIT 1;"
+    q = f"SELECT 1 FROM {table} WHERE {field}=%s AND isDeleted = 0 LIMIT 1;"
     return bool(run_select(q, (value,)))
 
 
@@ -158,7 +158,7 @@ def fetch_list(table):
     pk = cfg["pk"]
     cols = cfg["list_fields"]
 
-    q = f"SELECT {', '.join(cols)} FROM {table} WHERE isDeleted = FALSE ORDER BY {cfg.get('default_sort', pk + ' ASC')};"
+    q = f"SELECT {', '.join(cols)} FROM {table} WHERE isDeleted = 0 ORDER BY {cfg.get('default_sort', pk + ' ASC')};"
     rows = run_select(q)
     return cols, rows
 
@@ -169,7 +169,7 @@ def fetch_by_id(table, rec_id):
     cols = cfg["list_fields"]
     if cols[0] != pk:
         cols = [pk] + [c for c in cols if c != pk]
-    q = f"SELECT {', '.join(cols)} FROM {table} WHERE {pk}=%s LIMIT 1;"
+    q = f"SELECT {', '.join(cols)} FROM {table} WHERE {pk}=%s AND isDeleted = 0 LIMIT 1;"
     rows = run_select(q, (rec_id,))
     return cols, (rows[0] if rows else None)
 
@@ -179,7 +179,7 @@ def build_fk_options(cfg):
     for field, spec in cfg.get("fk_dropdowns", {}).items():
         parent_table, parent_pk, label_col = spec
         rows = run_select(
-            f"SELECT {parent_pk}, {label_col} FROM {parent_table} ORDER BY {parent_pk} ASC;"
+            f"SELECT {parent_pk}, {label_col} FROM {parent_table} WHERE isDeleted = 0 ORDER BY {parent_pk} ASC;"
         )
         options[field] = [(str(r[0]), str(r[1])) for r in rows]
     return options
@@ -248,7 +248,7 @@ def index():
     ready = has_any_user()
     for t in CRUD_CONFIG.keys():
         try:
-            counts[t] = run_select(f"SELECT COUNT(*) FROM {t};")[0][0] if ready else 0
+            counts[t] = run_select(f"SELECT COUNT(*) FROM {t} WHERE isDeleted = 0;")[0][0] if ready else 0
         except Exception:
             counts[t] = 0
     return render_template("index.html", site_cfg=CRUD_CONFIG, counts=counts, ready=ready)
