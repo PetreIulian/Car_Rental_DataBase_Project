@@ -44,7 +44,7 @@ CRUD_CONFIG = {
         "title": "Conturi Utilizatori",
         "create_fields": ["username", "password"],
         "update_fields": ["username", "password"],
-        "list_fields": ["id_user", "username"],
+        "list_fields": ["id_user", "username", "password"],
         "children": [
             {"table": "Date_Client", "fk": "fk_user"},
             {"table": "Comanda", "fk": "fk_user"}
