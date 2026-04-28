@@ -40,7 +40,7 @@ CREATE TABLE IF NOT EXISTS Date_Client (
     fk_user INT NOT NULL,
     nume VARCHAR(50) NOT NULL,
     prenume VARCHAR(50) NOT NULL,
-    numar_telefon VARCHAR(15),
+    numar_telefon VARCHAR(255),
     adresa VARCHAR(100),
     email VARCHAR(100),
     permis_conducere VARCHAR(20),

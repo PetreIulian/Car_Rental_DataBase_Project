@@ -3,25 +3,31 @@ from dotenv import load_dotenv
 import os
 from pathlib import Path
 import bcrypt
+from cryptography.fernet import Fernet
 
 root_dir = Path(__file__).parent.parent
 
-load_dotenv(root_dir/".env")
+load_dotenv(root_dir / ".env")
 
 DB_HOST = os.getenv("DB_HOST")
 DB_PORT = os.getenv("DB_PORT")
 ROOT_USER = os.getenv("DB_USER")
 ROOT_PASSWORD = os.getenv("DB_PASSWORD")
 DB_NAME = os.getenv("DB_NAME")
+FERNET_KEY = os.getenv("FERNET_KEY")
 
+if FERNET_KEY:
+    cipher_suite = Fernet(FERNET_KEY.encode())
+else:
+    cipher_suite = None
 
 def get_root_connection():
     return mariadb.connect(
-        host = DB_HOST,
-        port = int(DB_PORT),
-        user = ROOT_USER,
-        password = ROOT_PASSWORD,
-        database = DB_NAME
+        host=DB_HOST,
+        port=int(DB_PORT),
+        user=ROOT_USER,
+        password=ROOT_PASSWORD,
+        database=DB_NAME
     )
 
 def hash_password(plain: str) -> str:
@@ -53,6 +59,7 @@ def create_db_users():
     connection.commit()
     cursor.close()
 
+
 def encrypt_app_users():
     connection = get_root_connection()
     cursor = connection.cursor()
@@ -72,6 +79,31 @@ def encrypt_app_users():
     connection.commit()
     cursor.close()
 
+def encrypt_phone_numbers():
+    if not cipher_suite:
+        print("[EROARE] FERNET_KEY nu a fost găsită în .env. Sari peste criptarea telefoanelor.")
+        return
+
+    connection = get_root_connection()
+    cursor = connection.cursor()
+
+    cursor.execute("SELECT id_client, numar_telefon FROM Date_Client WHERE numar_telefon IS NOT NULL AND isDeleted = 0")
+    rows = cursor.fetchall()
+
+    for client_id, phone in rows:
+        if len(str(phone)) < 50:
+            encrypted_phone = cipher_suite.encrypt(str(phone).encode('utf-8')).decode('utf-8')
+
+            cursor.execute(
+                "UPDATE Date_Client SET numar_telefon=? WHERE id_client=?",
+                (encrypted_phone, client_id,)
+            )
+            print(f"[UPDATED] Client ID {client_id} numar_telefon encrypted")
+
+    connection.commit()
+    cursor.close()
+
+
 def main():
     print("\n=== CREATE DB USERS + GRANTS ===\n")
     create_db_users()
@@ -79,7 +111,11 @@ def main():
     print("\n=== ENCRYPT APP USERS PASSWORDS ===\n")
     encrypt_app_users()
 
+    print("\n=== ENCRYPT PHONE NUMBERS ===\n")
+    encrypt_phone_numbers()
+
     print("\n SECURITY SETUP COMPLETED")
+
 
 if __name__ == "__main__":
     main()
