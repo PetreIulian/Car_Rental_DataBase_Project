@@ -1,0 +1,602 @@
+[
+  {
+    "label": "Audi A4",
+    "venit_total": 100363.83
+  },
+  {
+    "label": "Hyundai Sonata",
+    "venit_total": 95077.37
+  },
+  {
+    "label": "Aston Martin Rapide",
+    "venit_total": 82562.83
+  },
+  {
+    "label": "Chrysler Concorde",
+    "venit_total": 79567.14
+  },
+  {
+    "label": "Kia Ceed",
+    "venit_total": 79025.43
+  },
+  {
+    "label": "Mercedes-Benz GLE",
+    "venit_total": 78908.62
+  },
+  {
+    "label": "Seat Arona",
+    "venit_total": 78868.55
+  },
+  {
+    "label": "Buick Regal",
+    "venit_total": 76124.84
+  },
+  {
+    "label": "Volkswagen Passat",
+    "venit_total": 75768.91
+  },
+  {
+    "label": "Volvo XC90",
+    "venit_total": 74720.49
+  },
+  {
+    "label": "Peugeot 2008",
+    "venit_total": 74123.97
+  },
+  {
+    "label": "Toyota Yaris",
+    "venit_total": 73642.29
+  },
+  {
+    "label": "Ford Fiesta",
+    "venit_total": 72401.47
+  },
+  {
+    "label": "Mazda Mazda3",
+    "venit_total": 71273.91
+  },
+  {
+    "label": "Skoda Octavia",
+    "venit_total": 71168.57
+  },
+  {
+    "label": "Skoda Kodiaq",
+    "venit_total": 71141.06
+  },
+  {
+    "label": "Mercedes-Benz C-Class",
+    "venit_total": 70483.28
+  },
+  {
+    "label": "Hyundai Kona",
+    "venit_total": 70451.25
+  },
+  {
+    "label": "Seat Tarraco",
+    "venit_total": 68174.5
+  },
+  {
+    "label": "GMC Sierra",
+    "venit_total": 67963.73
+  },
+  {
+    "label": "Jeep Grand Cherokee",
+    "venit_total": 66975.26
+  },
+  {
+    "label": "Chevrolet Camaro",
+    "venit_total": 65082.85
+  },
+  {
+    "label": "Mercedes-Benz E-Class",
+    "venit_total": 64953.46
+  },
+  {
+    "label": "Mazda Mazda6",
+    "venit_total": 64647.88
+  },
+  {
+    "label": "Hyundai Santa Fe",
+    "venit_total": 64211.68
+  },
+  {
+    "label": "Ferrari 488",
+    "venit_total": 63249.51
+  },
+  {
+    "label": "Ferrari Portofino",
+    "venit_total": 62158.29
+  },
+  {
+    "label": "Aston Martin Vantage",
+    "venit_total": 61693.12
+  },
+  {
+    "label": "Aston Martin DB11",
+    "venit_total": 61062.2
+  },
+  {
+    "label": "Alfa Romeo Stelvio",
+    "venit_total": 60589.96
+  },
+  {
+    "label": "Jeep Cherokee",
+    "venit_total": 60505.3
+  },
+  {
+    "label": "Jeep Renegade",
+    "venit_total": 60460.34
+  },
+  {
+    "label": "Skoda Scala",
+    "venit_total": 59699.35
+  },
+  {
+    "label": "Renault Megane",
+    "venit_total": 59650.87
+  },
+  {
+    "label": "Ford Mustang",
+    "venit_total": 58469.79
+  },
+  {
+    "label": "Tesla Cybertruck",
+    "venit_total": 57838.6
+  },
+  {
+    "label": "Buick LaCrosse",
+    "venit_total": 57355.61
+  },
+  {
+    "label": "Peugeot 208",
+    "venit_total": 55891.56
+  },
+  {
+    "label": "Dodge Challenger",
+    "venit_total": 55390.39
+  },
+  {
+    "label": "BMW i4",
+    "venit_total": 55280.85
+  },
+  {
+    "label": "Tesla Model X",
+    "venit_total": 54895.07
+  },
+  {
+    "label": "Kia Rio",
+    "venit_total": 54368.99
+  },
+  {
+    "label": "Fiat Punto",
+    "venit_total": 54072.92
+  },
+  {
+    "label": "Subaru XV",
+    "venit_total": 53799.28
+  },
+  {
+    "label": "Tesla Model S",
+    "venit_total": 53548.76
+  },
+  {
+    "label": "Audi Q7",
+    "venit_total": 53535.69
+  },
+  {
+    "label": "Dodge RAM",
+    "venit_total": 52031.73
+  },
+  {
+    "label": "Seat Ibiza",
+    "venit_total": 51969.99
+  },
+  {
+    "label": "Alfa Romeo 159",
+    "venit_total": 51917.98
+  },
+  {
+    "label": "Peugeot 3008",
+    "venit_total": 51909.78
+  },
+  {
+    "label": "Fiat Panda",
+    "venit_total": 51326.99
+  },
+  {
+    "label": "Hyundai Tucson",
+    "venit_total": 51040.57
+  },
+  {
+    "label": "Chevrolet Malibu",
+    "venit_total": 50989.6
+  },
+  {
+    "label": "Ferrari 812 Superfast",
+    "venit_total": 49979.88
+  },
+  {
+    "label": "Subaru Legacy",
+    "venit_total": 49887.69
+  },
+  {
+    "label": "Audi A3",
+    "venit_total": 49844.39
+  },
+  {
+    "label": "Ford Explorer",
+    "venit_total": 49795.21
+  },
+  {
+    "label": "Nissan Juke",
+    "venit_total": 49240.69
+  },
+  {
+    "label": "Volkswagen Golf",
+    "venit_total": 48591.17
+  },
+  {
+    "label": "Ford Mondeo",
+    "venit_total": 48577.57
+  },
+  {
+    "label": "BMW X3",
+    "venit_total": 47814.59
+  },
+  {
+    "label": "Chrysler 300",
+    "venit_total": 47777.96
+  },
+  {
+    "label": "Jeep Compass",
+    "venit_total": 47505.59
+  },
+  {
+    "label": "Chrysler 200",
+    "venit_total": 46458.85
+  },
+  {
+    "label": "GMC Savana",
+    "venit_total": 46348.24
+  },
+  {
+    "label": "Dodge Charger",
+    "venit_total": 45010.99
+  },
+  {
+    "label": "Lamborghini Urus",
+    "venit_total": 44913.78
+  },
+  {
+    "label": "Tesla Model 3",
+    "venit_total": 44247.02
+  },
+  {
+    "label": "Renault Clio",
+    "venit_total": 44021.34
+  },
+  {
+    "label": "GMC Acadia",
+    "venit_total": 43740.06
+  },
+  {
+    "label": "Maserati MC20",
+    "venit_total": 43721.33
+  },
+  {
+    "label": "Mazda CX-5",
+    "venit_total": 43529.46
+  },
+  {
+    "label": "Buick Enclave",
+    "venit_total": 43365.52
+  },
+  {
+    "label": "Mercedes-Benz GLC",
+    "venit_total": 42776.94
+  },
+  {
+    "label": "Honda Jazz",
+    "venit_total": 42464.52
+  },
+  {
+    "label": "Honda HR-V",
+    "venit_total": 42309.21
+  },
+  {
+    "label": "Toyota Corolla",
+    "venit_total": 42144.47
+  },
+  {
+    "label": "Maserati Quattroporte",
+    "venit_total": 42067.14
+  },
+  {
+    "label": "Chevrolet Equinox",
+    "venit_total": 41962.2
+  },
+  {
+    "label": "Volkswagen Tiguan",
+    "venit_total": 41832.58
+  },
+  {
+    "label": "Skoda Superb",
+    "venit_total": 41778.31
+  },
+  {
+    "label": "Kia Sorento",
+    "venit_total": 41594.25
+  },
+  {
+    "label": "Ferrari F8 Tributo",
+    "venit_total": 41569.4
+  },
+  {
+    "label": "GMC Canyon",
+    "venit_total": 40546.48
+  },
+  {
+    "label": "Toyota Highlander",
+    "venit_total": 40505.04
+  },
+  {
+    "label": "Nissan X-Trail",
+    "venit_total": 40403.26
+  },
+  {
+    "label": "Mercedes-Benz S-Class",
+    "venit_total": 40029.18
+  },
+  {
+    "label": "Alfa Romeo MiTo",
+    "venit_total": 39945.25
+  },
+  {
+    "label": "Subaru Outback",
+    "venit_total": 39711.11
+  },
+  {
+    "label": "Chevrolet Tahoe",
+    "venit_total": 39666.8
+  },
+  {
+    "label": "BMW X5",
+    "venit_total": 39324.16
+  },
+  {
+    "label": "Toyota Camry",
+    "venit_total": 39170.94
+  },
+  {
+    "label": "Peugeot 308",
+    "venit_total": 39102.86
+  },
+  {
+    "label": "Lamborghini Gallardo",
+    "venit_total": 38324.89
+  },
+  {
+    "label": "Maserati GranTurismo",
+    "venit_total": 38189.01
+  },
+  {
+    "label": "Subaru Forester",
+    "venit_total": 37921.8
+  },
+  {
+    "label": "Kia Picanto",
+    "venit_total": 37726.02
+  },
+  {
+    "label": "BMW Seria 3",
+    "venit_total": 37382.83
+  },
+  {
+    "label": "Kia Sportage",
+    "venit_total": 37264.41
+  },
+  {
+    "label": "Volvo V60",
+    "venit_total": 37092.25
+  },
+  {
+    "label": "Peugeot 508",
+    "venit_total": 36926.45
+  },
+  {
+    "label": "Seat Ateca",
+    "venit_total": 36289.6
+  },
+  {
+    "label": "Mazda CX-9",
+    "venit_total": 36233.88
+  },
+  {
+    "label": "Volvo XC60",
+    "venit_total": 35999.87
+  },
+  {
+    "label": "BMW Seria 5",
+    "venit_total": 35776.26
+  },
+  {
+    "label": "Honda Accord",
+    "venit_total": 35197.26
+  },
+  {
+    "label": "GMC Yukon",
+    "venit_total": 35146.22
+  },
+  {
+    "label": "Maserati Levante",
+    "venit_total": 34722.44
+  },
+  {
+    "label": "Aston Martin DBX",
+    "venit_total": 34181.16
+  },
+  {
+    "label": "Dodge Durango",
+    "venit_total": 34010.42
+  },
+  {
+    "label": "Honda Civic",
+    "venit_total": 33780.72
+  },
+  {
+    "label": "Alfa Romeo Brera",
+    "venit_total": 33712.78
+  },
+  {
+    "label": "Skoda Karoq",
+    "venit_total": 33486.63
+  },
+  {
+    "label": "Dodge Journey",
+    "venit_total": 33365.62
+  },
+  {
+    "label": "Honda CR-V",
+    "venit_total": 33325.33
+  },
+  {
+    "label": "Nissan Micra",
+    "venit_total": 32848.5
+  },
+  {
+    "label": "Alfa Romeo Giulia",
+    "venit_total": 32280.64
+  },
+  {
+    "label": "Fiat Bravo",
+    "venit_total": 32054.93
+  },
+  {
+    "label": "Audi A6",
+    "venit_total": 31741.86
+  },
+  {
+    "label": "Ferrari Roma",
+    "venit_total": 31499.17
+  },
+  {
+    "label": "Lamborghini Huracan",
+    "venit_total": 31254.69
+  },
+  {
+    "label": "Renault Captur",
+    "venit_total": 31145.22
+  },
+  {
+    "label": "Subaru Impreza",
+    "venit_total": 31106.98
+  },
+  {
+    "label": "Mazda CX-30",
+    "venit_total": 30895.14
+  },
+  {
+    "label": "Nissan Qashqai",
+    "venit_total": 30651.25
+  },
+  {
+    "label": "Audi Q5",
+    "venit_total": 30215
+  },
+  {
+    "label": "Jeep Wrangler",
+    "venit_total": 30197.08
+  },
+  {
+    "label": "Fiat 500",
+    "venit_total": 30084.47
+  },
+  {
+    "label": "Seat Leon",
+    "venit_total": 29668.13
+  },
+  {
+    "label": "Volvo V90",
+    "venit_total": 29666.66
+  },
+  {
+    "label": "Lamborghini Aventador",
+    "venit_total": 29620.73
+  },
+  {
+    "label": "Buick Encore",
+    "venit_total": 29545.31
+  },
+  {
+    "label": "Nissan Altima",
+    "venit_total": 28127.33
+  },
+  {
+    "label": "Volvo S60",
+    "venit_total": 27940.89
+  },
+  {
+    "label": "Chevrolet Impala",
+    "venit_total": 27464.9
+  },
+  {
+    "label": "Volkswagen Touareg",
+    "venit_total": 27405.64
+  },
+  {
+    "label": "Chrysler Voyager",
+    "venit_total": 26988.18
+  },
+  {
+    "label": "Aston Martin DBS",
+    "venit_total": 26950.91
+  },
+  {
+    "label": "Hyundai Elantra",
+    "venit_total": 25931.74
+  },
+  {
+    "label": "Lamborghini Revuelto",
+    "venit_total": 25265.91
+  },
+  {
+    "label": "Volkswagen Polo",
+    "venit_total": 22794.57
+  },
+  {
+    "label": "Toyota RAV4",
+    "venit_total": 22692.46
+  },
+  {
+    "label": "Renault Talisman",
+    "venit_total": 21271.38
+  },
+  {
+    "label": "Maserati Ghibli",
+    "venit_total": 20558.48
+  },
+  {
+    "label": "Fiat Tipo",
+    "venit_total": 18923.05
+  },
+  {
+    "label": "Ford Focus",
+    "venit_total": 18587.6
+  },
+  {
+    "label": "Buick Cascada",
+    "venit_total": 17837.7
+  },
+  {
+    "label": "Renault Austral",
+    "venit_total": 16743
+  },
+  {
+    "label": "Chrysler Pacifica",
+    "venit_total": 15477.04
+  },
+  {
+    "label": "Tesla Model Y",
+    "venit_total": 14025.32
+  }
+]

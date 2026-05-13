@@ -87,14 +87,24 @@ def generate_bar_chart(data, base_name, title, color):
     return chart_path
 
 
-def generate_pdf(data, base_name, title, intro, chart_path):
+def generate_pdf(data, base_name, title, descriere_generala, intro_sectiune, data_gen, chart_path):
     pdf_path = OUT_DIR / f"{base_name}.pdf"
     doc = SimpleDocTemplate(str(pdf_path), pagesize=A4)
     elements = []
     styles = getSampleStyleSheet()
 
     elements.append(Paragraph(title, styles["Heading1"]))
-    elements.append(Paragraph(intro, styles["Normal"]))
+    elements.append(Spacer(1, 10))
+
+    elements.append(Paragraph("Descriere Raport:", styles["Heading3"]))
+    elements.append(Paragraph(descriere_generala, styles["Normal"]))
+    elements.append(Spacer(1, 15))
+
+    elements.append(Paragraph("Data generare:", styles["Heading3"]))
+    elements.append(Paragraph(data_gen, styles["Normal"]))
+    elements.append(Spacer(1, 15))
+
+    elements.append(Paragraph(intro_sectiune, styles["Normal"]))
     elements.append(Spacer(1, 15))
 
     table_data = [["Model Auto", "Venit (RON)"]]
@@ -122,8 +132,13 @@ def raport_1():
     if data:
         export_data(data, "Top_Vanzari")
         c_path = generate_bar_chart(data, "Top_Vanzari", "Top 10 Modele dupa Venituri", "#2ecc71")
+
+        desc = "Acest document reprezinta analiza vanzarilor pentru masinile cu cele mai mari venituri."
+        intro = "Datele de mai jos sunt extrase din baza de date si includ toate modelele active."
+        timestamp = f"Raport generat la data: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}"
+
         generate_pdf(data, "Raport_Top_Vanzari", "Raport Performanta: Top Vanzari",
-                     "Analiza modelelor cu cele mai mari incasari inregistrate.", c_path)
+                     desc, intro, timestamp, c_path)
         print("Raport 1 generat: PDF, CSV, JSON, Grafic")
 
 
@@ -132,8 +147,13 @@ def raport_2():
     if data:
         export_data(data, "Bottom_Vanzari")
         c_path = generate_bar_chart(data, "Bottom_Vanzari", "Modele cu cele mai mici venituri", "#e67e22")
+
+        desc = "Acest document reprezinta analiza vanzarilor pentru masinile cu cele mai mici venituri."
+        intro = "Aceasta lista ajuta la identificarea modelelor care necesita optimizari comerciale.\n"
+        timestamp = f"Raport generat la data: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}"
+
         generate_pdf(data, "Raport_Bottom_Vanzari", "Raport Performanta: Venituri Minime",
-                     "Analiza modelelor care au generat cele mai putine venituri.", c_path)
+                     desc, intro, timestamp, c_path)
         print("Raport 2 generat: PDF, CSV, JSON, Grafic")
 
 
