@@ -233,6 +233,70 @@ def delete_record_safe(table, rec_id):
     q = f"UPDATE {table} SET isDeleted = TRUE WHERE {cfg['pk']} = %s;"
     run_execute(q, (rec_id,))
 
+def ensure_table_allowed(table):
+    if table not in CRUD_CONFIG:
+        abort(404)
+    return CRUD_CONFIG[table]
+
+def allowed_fields_for_table(table: str):
+    cfg = ensure_table_allowed(table)
+    fields = set()
+    for k in ("create_fields", "update_fields", "list_fields"):
+        for f in cfg.get(k, []):
+            fields.add(f)
+    fields.add(cfg["pk"])
+    for f in cfg.get("fk_dropdowns", {}).keys():
+        fields.add(f)
+    return sorted(fields)
+
+@app.route("/api/sqli/query", methods=["POST"])
+def api_sqli_query():
+    table = (request.form.get("table") or "").strip()
+    field = (request.form.get("field") or "").strip()
+    value = (request.form.get("value") or "").strip()
+    mode = (request.form.get("mode") or "safe").strip().lower()
+
+    ensure_table_allowed(table)
+
+    allowed_fields = allowed_fields_for_table(table)
+    if field not in allowed_fields:
+        return {"ok": False, "error": f"Field invalid. Allowed: {', '.join(allowed_fields)}"}, 400
+
+    limit = 25
+
+    try:
+        if mode == "unsafe":
+            sql = f"SELECT * FROM {table} WHERE {field} = '{value}' LIMIT {limit};"
+            rows = run_select(sql)
+        else:
+            sql = f"SELECT * FROM {table} WHERE {field} = %s LIMIT {limit};"
+            rows = run_select(sql, (value,))
+
+        cols = [c[0] for c in run_select(f"SHOW COLUMNS FROM {table};")]
+        data = [list(r) for r in rows]
+
+        return {
+            "ok": True,
+            "mode": mode,
+            "sql": sql,
+            "columns": cols,
+            "rows": data,
+            "count": len(data),
+        }
+    except Exception as e:
+        return {"ok": False, "error": str(e), "mode": mode}, 500
+
+@app.route("/sqli-lab", methods=["GET"])
+def sqli_lab():
+    tables = []
+    for t, cfg in CRUD_CONFIG.items():
+        tables.append({
+            "name": t,
+            "title": cfg.get("title", t),
+            "fields": allowed_fields_for_table(t)
+        })
+    return render_template("sqli_lab.html", site_cfg=CRUD_CONFIG, tables=tables)
+
 @app.before_request
 def guard_if_no_users():
     allowed = {"/", "/setup", "/seed-admin", "/search"}

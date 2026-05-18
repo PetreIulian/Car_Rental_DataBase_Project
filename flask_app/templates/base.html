@@ -16,6 +16,7 @@
     <nav class="nav">
       <a href="{{ url_for('index') }}">Dashboard</a>
       <a href="{{ url_for('search') }}">Search</a>
+      <a href="{{ url_for('sqli_lab') }}">SQL Injection Lab</a>
       <div class="nav-sep"></div>
 
       {% for t, c in site_cfg.items() %}
